@@ -19,6 +19,7 @@ body {
     float: left;
     font-size: 280%;
     margin-left: 30px;
+    text-transform: uppercase;
 }
 
 /* nav bar styling */
@@ -35,10 +36,15 @@ body {
 
 #nav-menu a {
     color: inherit;
+    text-decoration: none;
 }
 
-#nav-menu li a:hover {
-    border-bottom: 1px solid pink;
+/* #nav-menu li a:hover {
+    border-bottom: 1px solid #896978;
+} */
+
+.active {
+    border-bottom: 1px solid #896978;
 }
 
 /* div style placeholder */
