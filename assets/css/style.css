@@ -70,11 +70,27 @@ body {
 /* why us section */
 
 #why-us {
-    text-align: center;
-    font-size: 3rem;
-    padding: 30px 0 30px 0;
+    height: 400px;
 }
 
+.left {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: red;
+}
+
+.right {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: blue;
+}
+
+.center {
+    margin: 0 auto;
+    background-color: yellow;
+}
 
 /* Footer styles */
 
