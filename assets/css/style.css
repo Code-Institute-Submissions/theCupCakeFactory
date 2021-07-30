@@ -66,3 +66,20 @@ body {
     height: 400px;
     width: 100%;
 }
+
+/* why us section */
+
+#why-us {
+    text-align: center;
+    font-size: 3rem;
+    padding: 30px 0 30px 0;
+}
+
+
+/* Footer styles */
+
+footer {
+    width: 100%;
+    height: 80px;
+    background-color: pink;
+}
