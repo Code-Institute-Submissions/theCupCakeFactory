@@ -151,6 +151,60 @@ body {
     to {background: url('../images/cake_slice.jpg')no-repeat center center;}
   }
 
+  /* Form page contact us */
+
+/* .form-section {
+    clear: left;
+    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+} */
+
+.signup-form {
+    margin: 30px auto;
+    color:#fff;
+    background-color: rgba(206, 187, 187, 0.6);
+    max-width: 600px; 
+    padding: 30px;
+}
+
+.signup-form > h2 {
+   color: #fafafa;
+   margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width:100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: #f16c6b;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius:2px;
+    padding:15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color:#896978;
+    color: #fafafa;
+    display: block;
+    
+}
+
+.join-button:hover {
+    background-color: #fafafa;
+    color: #896978;
+}
+
 
 /* Footer styles */
 /* social icons from font awesome */
@@ -177,3 +231,4 @@ footer {
     padding: 5%;
     color: #896978;
 }
+
