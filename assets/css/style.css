@@ -40,9 +40,6 @@ body {
     text-decoration: none;
 }
 
-/* #nav-menu li a:hover {
-    border-bottom: 1px solid #896978;
-} */
 
 .active {
     border-bottom: 1px solid #896978;
@@ -71,7 +68,7 @@ body {
 /* why us section */
 
 .section_one_heading {
-    font-size: 3rem;
+    font-size: 2.1rem;
     text-align: center;
     margin: 20px 0 20px 0;
 }
@@ -111,6 +108,9 @@ body {
     height: 350px;
     float: left;
     background: url('../images/cupcake\ small2.jpg')no-repeat center center;
+
+    animation-name: pictures-left;
+    animation-duration: 4s;
 }
 
 .right {
@@ -120,6 +120,9 @@ body {
     height: 350px;
     float: right;
     background: url('../images/pexels-dhaya-eddine-bentaleb-5276663.jpg')no-repeat center center;
+
+    animation-name: pictures-right;
+    animation-duration: 6s;
 }
 
 .center {
@@ -128,7 +131,26 @@ body {
     height: 380px;
     margin: 0 auto;
     background: url('../images/pexels-roman-odintsov-5897459.jpg')no-repeat center center;
+
+    animation-name: pictures-center;
+    animation-duration: 8s;
 }
+
+@keyframes pictures-center {
+    from {background: url('../images/pexels-roman-odintsov-5897459.jpg')no-repeat center center;}
+    to {background: url('../images/pexels-dhaya-eddine-bentaleb-5276663.jpg')no-repeat center center;}
+  }
+
+@keyframes pictures-left {
+    from {background: url('../images/cupcake\ small2.jpg')no-repeat center center}
+    to {background: url('../images/birthday-cakes.jpg')no-repeat center center;}
+  }
+
+@keyframes pictures-right {
+    from {background: url('../images/pexels-dhaya-eddine-bentaleb-5276663.jpg')no-repeat center center;}
+    to {background: url('../images/cake_slice.jpg')no-repeat center center;}
+  }
+
 
 /* Footer styles */
 /* social icons from font awesome */
