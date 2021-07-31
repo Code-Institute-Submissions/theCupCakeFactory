@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Raleway:wght@500&display=swap');
 
+
 * {
     margin: 0;
     padding: 0;
@@ -69,15 +70,19 @@ body {
 
 /* why us section */
 
-h2 {
+.section_one_heading {
     font-size: 3rem;
     text-align: center;
-    margin-top: 25px;
+    margin: 20px 0 20px 0;
 }
 
-
+.why-paragraph {
+    font-size: 1.2rem;
+    text-align: center;
+    margin: 0 100px 0 100px;
+}
 #why-us {
-    height: 400px;
+    height: 200px;
 }
 
 .left {
@@ -87,20 +92,22 @@ h2 {
     width: 30%;
     height: 350px;
     float: left;
-    background: url('../images/fruit-berry-food-produce-ear-dessert-490713-pxhere.com\ \(1\).jpg')no-repeat center center;
+    background: url('../images/cupcake\ small2.jpg')no-repeat center center;
 }
 
 .right {
     padding-top: 30px;
     width: 30%;
+    height: 350px;
     float: right;
-    background-color: blue;
+    background: url('../images/pexels-dhaya-eddine-bentaleb-5276663.jpg')no-repeat center center;
 }
 
 .center {
     width: 30%;
+    height: 380px;
     margin: 0 auto;
-    background-color: yellow;
+    background: url('../images/pexels-roman-odintsov-5897459.jpg')no-repeat center center;
 }
 
 /* Footer styles */
@@ -110,4 +117,20 @@ footer {
     height: 80px;
     background-color: #FAE3E3;
     clear: both;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+    
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #896978;
 }
