@@ -107,10 +107,10 @@ body {
     width: 33%;
     height: 350px;
     float: left;
-    background: url('../images/cupcake\ small2.jpg')no-repeat center center;
+    background: url('../images/finish-cake.jpg')no-repeat center center;
 
     animation-name: pictures-left;
-    animation-duration: 4s;
+    animation-duration: 8s;
 }
 
 .right {
@@ -119,7 +119,7 @@ body {
     width: 33%;
     height: 350px;
     float: right;
-    background: url('../images/pexels-dhaya-eddine-bentaleb-5276663.jpg')no-repeat center center;
+    background: url('../images')no-repeat center center;
 
     animation-name: pictures-right;
     animation-duration: 6s;
@@ -142,8 +142,8 @@ body {
   }
 
 @keyframes pictures-left {
-    from {background: url('../images/cupcake\ small2.jpg')no-repeat center center}
-    to {background: url('../images/birthday-cakes.jpg')no-repeat center center;}
+    from {background: url('../images/cake-start.jpg')no-repeat center center}
+    to {background: url('../images/cake-decoration.jpg')no-repeat center center;}
   }
 
 @keyframes pictures-right {
