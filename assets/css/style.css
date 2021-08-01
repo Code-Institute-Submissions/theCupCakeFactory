@@ -23,6 +23,11 @@ body {
     text-transform: uppercase;
 }
 
+#top-logo a {
+    text-decoration: none;
+    color: #896978;
+}
+
 /* nav bar styling */
 
 #nav-menu, #top-logo {
@@ -238,4 +243,24 @@ footer {
     padding: 5%;
     color: #896978;
 }
+
+/* Gallery Styles */
+
+.gallery-photos {
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+}
+
+.gallery img {
+    max-width: 80%;
+    margin: 50px;
+    width: 100%;
+  }
+
+  .gallery img:hover {
+      max-width: 82%;
+      cursor: pointer;
+  }
 
