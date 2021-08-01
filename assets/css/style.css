@@ -153,25 +153,20 @@ body {
 
   /* Form page contact us */
 
-/* .form-section {
-    clear: left;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
-    background-size: cover;
-    background-position: center;
-    height: 900px;
-} */
-
 .signup-form {
     margin: 30px auto;
     color:#fff;
-    background-color: rgba(206, 187, 187, 0.6);
+    background-color: #896978;;
     max-width: 600px; 
     padding: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px grey;
 }
 
 .signup-form > h2 {
    color: #fafafa;
    margin-bottom: 20px;
+   text-align: center;
 }
 
 .text-input {
@@ -182,10 +177,15 @@ body {
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
     border-radius: 2px;
+    padding: 2px;
+}
+
+.text-input:focus {
+    color: #fafafa;
 }
 
 .text-input:hover {
-    border-color: #f16c6b;
+    border-color: #fafafa;;
 }
 
 .join-button {
@@ -194,15 +194,22 @@ body {
     padding:15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color:#896978;
-    color: #fafafa;
+    background-color:#fafafa;
+    color: #896978;
     display: block;
-    
+    cursor: pointer;
+    border-radius: 10px;
 }
 
 .join-button:hover {
-    background-color: #fafafa;
-    color: #896978;
+    background-color: #af889a;
+    color: #fafafa;
+
+    /* Style for the text box on the contact form */
+
+}#subject {
+    width: 600px;
+    height: 150px;
 }
 
 
