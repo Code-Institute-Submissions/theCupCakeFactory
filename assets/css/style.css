@@ -30,14 +30,15 @@ body {
 
 /* nav bar styling home page linking to all other pages*/
 
-#nav-menu, #top-logo {
+#nav-menu,
+#top-logo {
     line-height: 75px;
 }
 
-#nav-menu li {  
+#nav-menu li {
     float: right;
     list-style-type: none;
-    margin-right: 30px; 
+    margin-right: 30px;
 }
 
 #nav-menu a {
@@ -59,7 +60,7 @@ body {
     position: relative;
     background-color: pink;
     clear: both;
-    
+
 }
 
 /* images from https://pxhere.com/en/photo/490713 */
@@ -83,6 +84,7 @@ body {
     text-align: center;
     margin: 0 100px 0 100px;
 }
+
 #why-us {
     height: 370px;
 }
@@ -94,7 +96,7 @@ body {
     font-size: 1.1rem;
     text-align: center;
     line-height: 1.5;
-    
+
 }
 
 .events-list li {
@@ -142,49 +144,65 @@ body {
 }
 
 @keyframes pictures-center {
-    from {background: url('../images/pexels-roman-odintsov-5897459.jpg')no-repeat center center;}
-    to {background: url('../images/pexels-dhaya-eddine-bentaleb-5276663.jpg')no-repeat center center;}
-  }
+    from {
+        background: url('../images/pexels-roman-odintsov-5897459.jpg')no-repeat center center;
+    }
+
+    to {
+        background: url('../images/pexels-dhaya-eddine-bentaleb-5276663.jpg')no-repeat center center;
+    }
+}
 
 @keyframes pictures-left {
-    from {background: url('../images/cake-start.jpg')no-repeat center center}
-    to {background: url('../images/cake-decoration.jpg')no-repeat center center;}
-  }
+    from {
+        background: url('../images/cake-start.jpg')no-repeat center center
+    }
+
+    to {
+        background: url('../images/cake-decoration.jpg')no-repeat center center;
+    }
+}
 
 @keyframes pictures-right {
-    from {background: url('../images/homepage-cupcake-start.jpg')no-repeat center center;}
-    to {background: url('../images/cupcake-home-finished.jpg')no-repeat center center;}
-  }
+    from {
+        background: url('../images/homepage-cupcake-start.jpg')no-repeat center center;
+    }
 
-  /* Form page contact us */
+    to {
+        background: url('../images/cupcake-home-finished.jpg')no-repeat center center;
+    }
+}
+
+/* Form page contact us */
 .map-head {
     text-align: center;
 }
 
 #form-section {
-      height: 900px;
-  }
+    height: 900px;
+}
 
 .signup-form {
     margin: 30px auto;
-    color:#fff;
-    background-color: #896978;;
-    max-width: 600px; 
+    color: #fff;
+    background-color: #896978;
+    ;
+    max-width: 600px;
     padding: 30px;
     border-radius: 10px;
     box-shadow: 10px 10px 5px grey;
 }
 
-.signup-form > h2 {
-   color: #fafafa;
-   margin-bottom: 20px;
-   text-align: center;
+.signup-form>h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 .text-input {
     background: transparent;
     color: #fafafa;
-    width:100%;
+    width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
@@ -197,16 +215,17 @@ body {
 }
 
 .text-input:hover {
-    border-color: #fafafa;;
+    border-color: #fafafa;
+    ;
 }
 
 .join-button {
     margin-top: 20px;
-    border-radius:2px;
-    padding:15px 32px 15px 32px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color:#fafafa;
+    background-color: #fafafa;
     color: #896978;
     display: block;
     cursor: pointer;
@@ -220,9 +239,9 @@ body {
 
 ::placeholder {
     color: #fafafa;
-      }
+}
 
-    /* Style for the text box on the contact form */
+/* Style for the text box on the contact form */
 
 #subject {
     width: 600px;
@@ -254,9 +273,9 @@ footer {
     text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
-    
+
 }
 
 .social-networks i {
@@ -286,15 +305,15 @@ footer {
 
 .gallery-photos {
     display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
+    flex-direction: row;
+    flex-wrap: nowrap;
 }
 
 .gallery img {
     max-width: 50%;
     margin: 40px;
     width: 100%;
-  }
+}
 
 .gallery img:hover {
     max-width: 55%;
@@ -303,13 +322,25 @@ footer {
 }
 
 
-  /* Prices page styles */
+/* Prices page styles */
 
-.price-table {   
-    margin-left: auto; 
-    margin-right: auto;    
+.price-table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
-  #why-us-prices {
-    height: 280px;
+.why-paragraph-delivery {
+    font-size: 1.2rem;
+    text-align: center;
+    margin: 20px 100px 0 100px;
+    font-weight: bold;
+}
+
+#why-us-prices {
+    height: 180px;
+}
+
+th ,td {
+    padding: 10px;
 }
