@@ -14,7 +14,7 @@ body {
     background-color: #FAE3E3;
 }
 
-/* logo styling */
+/* logo styling home page */
 
 #top-logo {
     float: left;
@@ -28,7 +28,7 @@ body {
     color: #896978;
 }
 
-/* nav bar styling */
+/* nav bar styling home page linking to all other pages*/
 
 #nav-menu, #top-logo {
     line-height: 75px;
@@ -180,7 +180,7 @@ body {
 
 .text-input {
     background: transparent;
-    color: #896978;
+    color: #fafafa;
     width:100%;
     height: 25px;
     margin: 5px 0 20px 0;
@@ -213,10 +213,15 @@ body {
 .join-button:hover {
     background-color: #af889a;
     color: #fafafa;
+}
+
+::placeholder {
+    color: #fafafa;
+      }
 
     /* Style for the text box on the contact form */
 
-}#subject {
+#subject {
     width: 600px;
     height: 150px;
 }
@@ -260,21 +265,37 @@ footer {
 
 /* Gallery Styles */
 
+.gallery-head {
+    text-align: center;
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin: 20px 20px;
+}
+
+.gallery-paragraph {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.gallery {
+    text-align: center;
+}
+
 .gallery-photos {
     display: flex;
 	flex-direction: row;
 	flex-wrap: nowrap;
-	justify-content: space-around;
 }
 
 .gallery img {
-    max-width: 80%;
-    margin: 50px;
+    max-width: 50%;
+    margin: 40px;
     width: 100%;
   }
 
   .gallery img:hover {
-      max-width: 82%;
+      max-width: 55%;
       cursor: pointer;
+      box-shadow: 10px 10px 5px grey;
   }
 
