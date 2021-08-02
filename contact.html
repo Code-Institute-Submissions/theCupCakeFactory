@@ -32,7 +32,7 @@
 
     <section class="form-section">
         <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
-            <h2 class="contact-heading">Contact Us!!</i></h2>
+            <h2 class="contact-heading">Contact Us !!</i></h2>
             <label for="fname">First Name</label>
             <input class="text-input" id="fname" name="first_name" type="text" placeholder="First Name" required>
 
@@ -49,14 +49,24 @@
             <label for="cake1"> Birthday Cake</label><br>
             <input type="checkbox" id="cake2" name="cake2" value="Wedding Cake">
             <label for="cake2"> Wedding Cake</label><br>
-            <input type="checkbox" id="cake3" name="cake3" value="Cupcakes">
-            <label for="cake3"> Cupcakes</label><br>
+            <input type="checkbox" id="cake3" name="cake3" value="Special Event">
+            <label for="cake3"> Special Event (Please leave details in the message box)</label><br>
+            <input type="checkbox" id="cake4" name="cake4" value="Cupcakes">
+            <label for="cake4"> Cupcakes</label><br><br>
+            <p>Please select the amount of cupcakes required:</p>
+            <input type="radio" id="box1" name="box" value="3">
+            <label for="box1">3 box</label><br>
+            <input type="radio" id="box2" name="box" value="6">
+            <label for="box2">6 box</label><br>  
+            <input type="radio" id="box3" name="box" value="12">
+            <label for="box3">12 box</label><br><br>
             <br>
    
             <label for="subject">Your message</label><br>
-            <textarea class="text-input" id="subject" name="subject" placeholder="Whats would you like...."></textarea>
+            <textarea class="text-input" id="subject" name="subject" placeholder="Whats would you like...." required></textarea>
 
             <input class="join-button" type="submit" value="Press me please">
+            <input class="join-button" type="reset" value="Reset">
 
 
 
