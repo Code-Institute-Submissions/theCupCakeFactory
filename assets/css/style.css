@@ -296,9 +296,20 @@ footer {
     width: 100%;
   }
 
-  .gallery img:hover {
-      max-width: 55%;
-      cursor: pointer;
-      box-shadow: 10px 10px 5px grey;
-  }
+.gallery img:hover {
+    max-width: 55%;
+    cursor: pointer;
+    box-shadow: 10px 10px 5px grey;
+}
 
+
+  /* Prices page styles */
+
+.price-table {   
+    margin-left: auto; 
+    margin-right: auto;    
+}
+
+  #why-us-prices {
+    height: 280px;
+}
