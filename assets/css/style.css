@@ -124,10 +124,10 @@ body {
     width: 33%;
     height: 350px;
     float: right;
-    background: url('../images')no-repeat center center;
+    background: url('../images/cupcake-home-finished.jpg')no-repeat center center;
 
     animation-name: pictures-right;
-    animation-duration: 6s;
+    animation-duration: 8s;
 }
 
 .center {
@@ -152,11 +152,15 @@ body {
   }
 
 @keyframes pictures-right {
-    from {background: url('../images/pexels-dhaya-eddine-bentaleb-5276663.jpg')no-repeat center center;}
-    to {background: url('../images/cake_slice.jpg')no-repeat center center;}
+    from {background: url('../images/homepage-cupcake-start.jpg')no-repeat center center;}
+    to {background: url('../images/cupcake-home-finished.jpg')no-repeat center center;}
   }
 
   /* Form page contact us */
+
+iframe {
+    margin-left: 5%;
+}
 
 #form-section {
       height: 900px;
