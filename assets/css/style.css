@@ -117,7 +117,7 @@ body {
     background: url('../images/finish-cake.jpg')no-repeat center center;
 
     animation-name: pictures-left;
-    animation-duration: 8s;
+    animation-duration: 4s;
 }
 
 .right {
@@ -129,7 +129,7 @@ body {
     background: url('../images/cupcake-home-finished.jpg')no-repeat center center;
 
     animation-name: pictures-right;
-    animation-duration: 8s;
+    animation-duration: 6s;
 }
 
 .center {
@@ -344,3 +344,17 @@ footer {
 th ,td {
     padding: 10px;
 }
+
+/* Media queries */
+
+@media screen and (max-width: 1000px) {
+    .left, .right, .center {
+      display: none;
+    }
+    #top-logo {
+        float: left;
+        font-size: 180%;
+        margin-left: 30px;
+        text-transform: uppercase;
+    }
+  }
