@@ -157,9 +157,8 @@ body {
   }
 
   /* Form page contact us */
-
-iframe {
-    margin-left: 5%;
+.map-head {
+    text-align: center;
 }
 
 #form-section {
