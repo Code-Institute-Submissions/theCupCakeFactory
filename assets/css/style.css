@@ -299,26 +299,26 @@ footer {
 }
 
 .gallery {
-    text-align: center;
+    display: grid;
+    max-width: 100%;
+    margin: 0 auto;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 500px);
+    overflow: hidden;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
 }
 
-.gallery-photos {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-}
-
-.gallery img {
-    max-width: 50%;
-    margin: 40px;
-    width: 100%;
-}
 
 .gallery img:hover {
-    max-width: 55%;
-    cursor: pointer;
-    box-shadow: 10px 10px 5px grey;
+  cursor: pointer;
+  box-shadow: 10px 10px 5px grey;
 }
+
+
 
 
 /* Prices page styles */
@@ -385,3 +385,4 @@ th ,td {
         line-height: 1.3;
     }
   }
+
