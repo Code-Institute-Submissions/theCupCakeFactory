@@ -10,7 +10,7 @@
 body {
     font-family: Raleway, sans-serif;
     font-weight: 300;
-    color: #896978;
+    color: #6e5460;
     background-color: #FAE3E3;
 }
 
@@ -96,7 +96,6 @@ body {
     font-size: 1.1rem;
     text-align: center;
     line-height: 1.5;
-
 }
 
 .events-list li {
@@ -347,13 +346,13 @@ th ,td {
 
 /* Media queries */
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1200px) {
     .left, .right, .center {
       display: none;
     }
     #top-logo {
         float: left;
-        font-size: 110%;
+        font-size: 200%;
         margin-left: 30px;
         text-transform: uppercase;
     }
@@ -362,8 +361,27 @@ th ,td {
         text-align: center;
         margin: 0 50px 0 50px;
     }
+
+    .section_one_heading {
+        font-size: 1.5rem;
+        text-align: center;
+        margin: 20px 0 20px 0;
+    }
     
     #why-us {
         height: 400px;
+    }
+
+    #hero-image {
+        background: url('../images/fruit-berry-food-produce-ear-dessert-490713-pxhere.com\ \(1\).jpg')no-repeat center center;
+        height: 400px;
+        width: 100%;
+    }
+
+    .events-list {
+        padding: 20px;
+        font-size: 1rem;
+        text-align: center;
+        line-height: 1.3;
     }
   }
