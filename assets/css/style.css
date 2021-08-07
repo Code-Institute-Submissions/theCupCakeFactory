@@ -58,18 +58,19 @@ body {
     width: 100%;
     overflow: hidden;
     position: relative;
-    background-color: pink;
+    background-color: rgb(250, 233, 236);
     clear: both;
-
 }
 
-/* images from https://pxhere.com/en/photo/490713 */
+/* images and visdeos from https://pxhere.com/en/photo/490713 */
 
-#hero-image {
-    background: url('../images/fruit-berry-food-produce-ear-dessert-490713-pxhere.com\ \(1\).jpg')no-repeat center center;
-    height: 400px;
-    width: 100%;
-}
+#hero-image > video {
+    object-fit: cover;
+    width: 100vw;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+} 
 
 /* why us section */
 
@@ -302,7 +303,8 @@ footer {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     grid-gap: 20px;
-    align-items: end;
+    justify-items: end;
+    margin: 20px 20px;
     overflow: hidden;
 }
 
@@ -372,11 +374,14 @@ th ,td {
         height: 400px;
     }
 
-    #hero-image {
-        background: url('../images/fruit-berry-food-produce-ear-dessert-490713-pxhere.com\ \(1\).jpg')no-repeat center center;
-        height: 400px;
-        width: 100%;
-    }
+    #hero-image > video {
+    object-fit: cover;
+    width: 100vw;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+} 
+
 
     .events-list {
         padding: 20px;
