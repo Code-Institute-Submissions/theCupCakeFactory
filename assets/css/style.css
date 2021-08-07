@@ -219,7 +219,7 @@ body {
     ;
 }
 
-.join-button {
+.join-button    {
     margin-top: 20px;
     border-radius: 2px;
     padding: 15px 32px 15px 32px;
@@ -239,6 +239,19 @@ body {
 
 ::placeholder {
     color: #fafafa;
+}
+
+/* Added thank you page for contact form and styled a back button link to home page */
+
+.back-button {
+    display: grid;
+    justify-content: center;
+    background-color: #fafafa;
+    color: #896978;
+    text-decoration: none;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    font-size: 1.4rem;
 }
 
 /* Style for the text box on the contact form */
