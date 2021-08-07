@@ -129,7 +129,7 @@ body {
     background: url('../images/cupcake-home-finished.jpg')no-repeat center center;
 
     animation-name: pictures-right;
-    animation-duration: 6s;
+    animation-duration: 4s;
 }
 
 .center {
@@ -137,19 +137,19 @@ body {
     width: 30%;
     height: 380px;
     margin: 0 auto;
-    background: url('../images/pexels-roman-odintsov-5897459.jpg')no-repeat center center;
+    background: url('../images/center_home_finish.jpg')no-repeat center center;
 
     animation-name: pictures-center;
-    animation-duration: 8s;
+    animation-duration: 4s;
 }
 
 @keyframes pictures-center {
     from {
-        background: url('../images/pexels-roman-odintsov-5897459.jpg')no-repeat center center;
+        background: url('../images/center_home_start.jpg')no-repeat center center;
     }
 
     to {
-        background: url('../images/pexels-dhaya-eddine-bentaleb-5276663.jpg')no-repeat center center;
+        background: url('../images/center_home_middle.jpg')no-repeat center center;
     }
 }
 
@@ -159,7 +159,7 @@ body {
     }
 
     to {
-        background: url('../images/cake-decoration.jpg')no-repeat center center;
+        background: url('../images/cake-middle.jpg')no-repeat center center;
     }
 }
 
