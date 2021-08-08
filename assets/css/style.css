@@ -26,7 +26,7 @@ body {
 
 #top-logo a {
     text-decoration: none;
-    color: #896978;
+    color: #36232c;
 }
 
 /* nav bar styling home page linking to all other pages*/
@@ -40,7 +40,7 @@ body {
     float: right;
     list-style-type: none;
     margin-right: 30px;
-    color: #896978;
+    color: #36232c;
 }
 
 #nav-menu a {
@@ -50,7 +50,7 @@ body {
 
 
 .active {
-    border-bottom: 1px solid #896978;
+    border-bottom: 1px solid #36232c;
 }
 
 /* div style placeholder */
@@ -80,14 +80,14 @@ body {
     font-size: 2.1rem;
     text-align: center;
     margin: 20px 0 20px 0;
-    color: #896978;
+    color: #36232c;
 }
 
 .why-paragraph {
     font-size: 1.2rem;
     text-align: center;
     margin: 0 100px 0 100px;
-    color: #896978;
+    color: #36232c;
 }
 
 #why-us {
@@ -101,7 +101,7 @@ body {
     font-size: 1.1rem;
     text-align: center;
     line-height: 1.5;
-    color: #896978;
+    color: #36232c;
 }
 
 .events-list li {
@@ -300,7 +300,7 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #896978;
+    color: #36232c;
 }
 
 .footer-copyright {
@@ -308,7 +308,7 @@ footer {
     padding: 10px;
     text-align: center;
     margin-bottom: 40px;
-    color: #896978;
+    color: #36232c;
 }
 
 /* Gallery Styles */
@@ -318,13 +318,13 @@ footer {
     font-size: 2rem;
     text-transform: uppercase;
     margin: 20px 20px;
-    color: #896978;
+    color: #36232c;
 }
 
 .gallery-paragraph {
     text-align: center;
     font-size: 1.2rem;
-    color: #896978;
+    color: #36232c;
 }
 
 #content {
@@ -357,7 +357,7 @@ footer {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    color: #896978;
+    color: #36232c;
 }
 
 .why-paragraph-delivery {
@@ -365,7 +365,7 @@ footer {
     text-align: center;
     margin: 20px 100px 0 100px;
     font-weight: bold;
-    color: #896978;
+    color: #36232c;
 }
 
 #why-us-prices {
@@ -374,6 +374,7 @@ footer {
 
 th ,td {
     padding: 10px;
+    color: #36232c;
 }
 
 /* Media queries 1200px maximum width */
@@ -441,7 +442,7 @@ th ,td {
         background: url('../images/cupcake-home-finished.jpg')no-repeat center center;
     
         animation-name: pictures-right;
-        animation-duration: 4s;
+        animation-duration: 20s;
     }
     
     .center {
@@ -452,7 +453,7 @@ th ,td {
         background: url('../images/center_home_finish.jpg')no-repeat center center;
     
         animation-name: pictures-center;
-        animation-duration: 4s;
+        animation-duration: 8s;
     }
     
     @keyframes pictures-center {
@@ -481,7 +482,7 @@ th ,td {
         }
     
         to {
-            background: url('../images/cupcake-home-finished.jpg')no-repeat center center;
+            background: url('../images/cupcake-home-second.jpg')no-repeat center center;
         }
     }
   }
@@ -534,6 +535,6 @@ th ,td {
         font-size: 140%;
         margin: 1%;
         padding: 5%;
-        color: #896978;
+        color: #36232c;
     }
   }
