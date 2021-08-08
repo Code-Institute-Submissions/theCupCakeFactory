@@ -548,6 +548,7 @@ th ,td {
 
 
   /* Media queries 720px maximum width */
+
   @media screen and (max-width: 720px) {
      .signup-form {
         margin: 30px auto;
@@ -576,4 +577,34 @@ th ,td {
         bottom: 100px;
         right: 50px;
 }
+  }
+
+  /* Media queries 600px maximum width */
+
+  @media screen and (max-width: 720px) {
+    .price-table {
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        color: #36232c;
+    }
+    
+    .why-paragraph-delivery {
+        font-size: 1.2rem;
+        text-align: center;
+        margin: 20px 100px 0 100px;
+        font-weight: bold;
+        color: #36232c;
+    }
+    
+    #why-us-prices {
+        height: 180px;
+    }
+    
+    th ,td {
+        padding: 10px;
+        color: #36232c;
+    }
+
   }
