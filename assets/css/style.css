@@ -577,13 +577,14 @@ th ,td {
         bottom: 100px;
         right: 50px;
 }
+
   }
 
   /* Media queries 600px maximum width */
 
-  @media screen and (max-width: 720px) {
+  @media screen and (max-width: 415px) {
     .price-table {
-        margin-top: 50px;
+        margin-top: 120px;
         margin-left: auto;
         margin-right: auto;
         text-align: center;
@@ -605,6 +606,33 @@ th ,td {
     th ,td {
         padding: 10px;
         color: #36232c;
+    }
+
+    #nav-menu {
+        clear: left;
+        float: left;
+        list-style-type: none;
+        color: #36232c;
+        font-size: 0.9rem;
+    }
+
+    #social-contact {
+        margin-top: 40px;
+    }
+
+    #content img {
+        border: 1px solid #ccc;
+        box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+        max-width: 70%;
+      }
+
+      #content {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        grid-gap: 20px;
+        justify-items: center;
+        margin: 20px 20px;
+        overflow: hidden;
     }
 
   }
