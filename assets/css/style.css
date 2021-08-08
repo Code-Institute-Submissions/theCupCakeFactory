@@ -40,6 +40,7 @@ body {
     float: right;
     list-style-type: none;
     margin-right: 30px;
+    color: #896978;
 }
 
 #nav-menu a {
@@ -79,12 +80,14 @@ body {
     font-size: 2.1rem;
     text-align: center;
     margin: 20px 0 20px 0;
+    color: #896978;
 }
 
 .why-paragraph {
     font-size: 1.2rem;
     text-align: center;
     margin: 0 100px 0 100px;
+    color: #896978;
 }
 
 #why-us {
@@ -98,6 +101,7 @@ body {
     font-size: 1.1rem;
     text-align: center;
     line-height: 1.5;
+    color: #896978;
 }
 
 .events-list li {
@@ -304,6 +308,7 @@ footer {
     padding: 10px;
     text-align: center;
     margin-bottom: 40px;
+    color: #896978;
 }
 
 /* Gallery Styles */
@@ -313,11 +318,13 @@ footer {
     font-size: 2rem;
     text-transform: uppercase;
     margin: 20px 20px;
+    color: #896978;
 }
 
 .gallery-paragraph {
     text-align: center;
     font-size: 1.2rem;
+    color: #896978;
 }
 
 #content {
@@ -350,6 +357,7 @@ footer {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    color: #896978;
 }
 
 .why-paragraph-delivery {
@@ -357,6 +365,7 @@ footer {
     text-align: center;
     margin: 20px 100px 0 100px;
     font-weight: bold;
+    color: #896978;
 }
 
 #why-us-prices {
