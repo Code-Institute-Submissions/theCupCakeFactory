@@ -367,6 +367,11 @@ footer {
     color: #36232c;
 }
 
+.why-paragraph-delivery > a {
+    text-decoration: none;
+    color: #ac728d;
+}
+
 #why-us-prices {
     height: 180px;
 }
