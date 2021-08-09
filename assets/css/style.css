@@ -359,6 +359,15 @@ footer {
     color: #36232c;
 }
 
+.why-paragraph-delivery {
+    font-size: 1rem;
+    text-align: center;
+    margin: 20px 100px 0 100px;
+    font-weight: bold;
+    color: #36232c;
+}
+
+
 .why-paragraph-delivery-table {
     font-size: 1rem;
     text-align: center;
@@ -369,7 +378,7 @@ footer {
 
 .why-paragraph-delivery-table > a {
     text-decoration: none;
-    color: #ac728d;
+    color: #800040;
 }
 
 #why-us-prices {
