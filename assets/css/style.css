@@ -359,15 +359,15 @@ footer {
     color: #36232c;
 }
 
-.why-paragraph-delivery {
-    font-size: 1.2rem;
+.why-paragraph-delivery-table {
+    font-size: 1rem;
     text-align: center;
     margin: 20px 100px 0 100px;
     font-weight: bold;
     color: #36232c;
 }
 
-.why-paragraph-delivery > a {
+.why-paragraph-delivery-table > a {
     text-decoration: none;
     color: #ac728d;
 }
@@ -585,7 +585,7 @@ th ,td {
 
   }
 
-  /* Media queries 600px maximum width */
+  /* Media queries 415px maximum width */
 
   @media screen and (max-width: 415px) {
     .price-table {
@@ -618,7 +618,7 @@ th ,td {
         float: left;
         list-style-type: none;
         color: #36232c;
-        font-size: 0.9rem;
+        font-size: 0.8rem;
     }
 
     #social-contact {
@@ -638,6 +638,60 @@ th ,td {
         justify-items: center;
         margin: 20px 20px;
         overflow: hidden;
+    }
+
+  }
+
+  /* Media queries 375px maximum width */
+
+  @media screen and (max-width: 375px) {
+    #nav-menu  {
+        clear: left;
+        float: left;
+        list-style-type: none;
+        color: #36232c;
+        font-size: 0.7rem;
+    }
+
+    .events-list {
+        padding: 10px;
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .why-paragraph-delivery {
+        font-size: 1.1rem;
+        text-align: center;
+        margin: 20px 100px 20px 100px;
+        font-weight: bold;
+        color: #36232c;
+    }
+    .price-table {
+        margin-top: 130px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        color: #36232c;
+    }
+    .social-networks {
+        padding-top: 30px;
+    }
+
+    .join-button    {
+        margin-top: 20px;
+        padding: 5px 5px 5px 5px;
+        text-align: center;
+        font-size: 80%;
+        background-color: #fafafa;
+        color: #896978;
+        display: block;
+        cursor: pointer;
+        border-radius: 10px;
+    }
+    
+    .join-button:hover {
+        background-color: #af889a;
+        color: #fafafa;
     }
 
   }
