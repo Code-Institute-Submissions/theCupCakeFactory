@@ -179,6 +179,10 @@ body {
 }
 
 /* Form page contact us */
+
+#google-map iframe {
+    width: 100%;
+}
 .map-head {
     text-align: center;
 }
