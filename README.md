@@ -1,8 +1,9 @@
 # Stephen D'Arcy - The Cupcake Factory
 ​
 ## 1. The Cupcake Factory
-​
-### 1.1 A website dedicated to ckae baking and a fast effiecient delivey service for customers. The website feature an array of cakes we bake and an easy to use contact forms for anything else a customer may want to order.We offer an excellent delivery service within certain geographical ranges. The goal is to promote our small online business while encourtaging others to try baking for themselves.
+
+### 1.1 About
+* A website dedicated to ckae baking and a fast effiecient delivey service for customers. The website feature an array of cakes we bake and an easy to use contact forms for anything else a customer may want to order.We offer an excellent delivery service within certain geographical ranges. The goal is to promote our small online business while encourtaging others to try baking for themselves.  
 
 ### 1.2 The business goals of this website are:
 * To build a regular customer base.
@@ -14,27 +15,28 @@
 
 ---
  
-## 2. Target Audience
+## 2. User Experience
 
-#### 2.1 The ideal client for this business is:
-* English speaking.
-* Has disposable income.
-* Is a parent.
-* Lives in the Netherlands (but can be anywhere in the world).
+
+### 2.1 Project goals:
+* The main goal of the project is to advertise our bussiness and products to a wider audience.
+* To increase visitors to the website.
+* To use the website as a platform to expand our business
 ​
-#### 2.2 Visitors to this website are searching for:
-* An artist to create a custom portrait featuring their child(ren) to decorate their home. 
-* And/or a bespoke gift. 
+### 2.2 Design:
+* The design is very simplistic and uses pastel colors to mirro what may be found on a lot of cakes and baked goods. It has a clear navigation menu and the page is clearly lablled and it is easy to go from one page to another. 
+* The imgaes are sized correctly and each page is degined to look like the home page.
 ​
-#### 2.3 This project is the best way to help them achieve these things because:
-* Most artists' websites have very poor UX. 
-* Other artists' websites are over complicated and produce information overload quickly. 
-* This website is:
-    * Easy to navigate.
-    * Steps the client through easy to understand learnable information.
-    * Gives the client the information they need without overloading them.
-    * Guiding them to the goal of the website - to fill out the contact form.
-​
+### 2.3 User Stories
+* As a user I want navigate between pages.
+* As a user I want be able to view images pf products.
+* As a user I want to be able to see the prices of products in a clear manner.
+* As a user I want to be able to conatct the company easily.
+
+### 2.4 Target Audience
+
+---
+
 ## 3. Features
 
 ---
