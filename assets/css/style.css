@@ -724,9 +724,9 @@ th ,td {
   }
 
 
-  /* Media queries 320px maximum width */
+  /* Media queries 321px maximum width */
 
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 321px) {
 
     #top-logo {
         font-size: 1.3rem;
