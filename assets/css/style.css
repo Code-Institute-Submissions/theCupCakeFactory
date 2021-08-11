@@ -726,18 +726,22 @@ th ,td {
 
   /* Media queries 321px maximum width */
 
-  @media screen and (max-width: 321px) {
+  @media screen and (max-width: 320px) {
 
     #top-logo {
         font-size: 1.3rem;
     }
 
     #nav-menu  {
-        clear: left;
-        float: left;
+
         list-style-type: none;
         color: #36232c;
-        font-size: 0.58rem;
+        font-size: .8em;
+    }
+
+    #nav-menu ul li {
+        margin-right: 0;
+        padding: 5px;
     }
 
     .section_one_heading {
