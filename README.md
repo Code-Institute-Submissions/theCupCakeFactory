@@ -1,3 +1,5 @@
+![Site responsive sreenshots](assets/images/readme_img.PNG)
+
 # Stephen D'Arcy - The Cupcake Factory
 ​
 ## 1. The Cupcake Factory
