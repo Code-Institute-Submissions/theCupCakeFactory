@@ -27,7 +27,7 @@
 ​
 ### 2.2 Design:
 * The design is very simplistic and uses pastel colors to mirror what may be found on a lot of cakes and baked goods. It has a clear navigation menu and the page is clearly    lablled and it is easy to go from one page to another. 
-* The imgaes are sized correctly and each page is designed to look like the home page.
+* The images are sized correctly and each page is designed to look like the home page.
 ​
 ### 2.3 User Stories
 * As a user I want navigate between pages.
@@ -44,6 +44,14 @@
 ---
 
 ## 4. Technology Used In Design
+
+### 4.1 HTML
+
+* HTML5 semantic code is used in all of the four website pages. There are clearly defined areas such as main, sections, headers and footers as well as list items and tables.
+
+### 4.2 CSS
+
+* CSS has been used to add styles nad animations to the site amking it more appealing for people visiting us. 
 
 ---
 
