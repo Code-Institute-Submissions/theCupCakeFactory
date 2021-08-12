@@ -539,8 +539,26 @@ th ,td {
         right: 50px;
     }
   }
-  /* Media queries 415px maximum width */
-  @media screen and (max-width: 415px) {
+  /* Media queries 414px maximum width */
+  @media screen and (max-width: 414px) {
+    .call-to-contact {
+        text-decoration: none;
+        width: 100px;
+        margin: 0 auto;
+        border-radius: 2px;
+        padding: 10px;
+        text-align: center;
+        font-size: 80%;
+        background-color: #fafafa;
+        color:#36232c;
+        display: block;
+        cursor: pointer;
+        border-radius: 6px;
+    }
+    .call-to-contact:hover {
+        background-color: #af889a;
+        color: #fafafa;
+    }
     .price-table {
         margin-top: 120px;
         margin-left: auto;
@@ -570,7 +588,7 @@ th ,td {
         font-size: 0.8rem;
     }
     #social-contact {
-        margin-top: 40px;
+        margin-top: 100px;
     }
     #content img {
         border: 1px solid #ccc;
@@ -635,6 +653,24 @@ th ,td {
   }
   /* Media queries 321px maximum width */
   @media screen and (max-width: 320px) {
+    .call-to-contact {
+        text-decoration: none;
+        width: 100px;
+        margin: 0 auto;
+        border-radius: 2px;
+        padding: 10px 16px 7px 16px;
+        text-align: center;
+        font-size: 60%;
+        background-color: #fafafa;
+        color:#36232c;
+        display: block;
+        cursor: pointer;
+        border-radius: 6px;
+    }
+    .call-to-contact:hover {
+        background-color: #af889a;
+        color: #fafafa;
+    }
     #top-logo {
         font-size: 1.3rem;
     }
@@ -683,7 +719,7 @@ th ,td {
     }
     .social-networks i {
         padding-top: 10px;
-        margin-top: 70px;
+        margin-top: 90px;
     }
     .gallery-head {
         font-size: 1.1rem;
