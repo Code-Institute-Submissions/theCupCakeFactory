@@ -59,16 +59,17 @@ The Gallery page has a small selection of the ckaes that we can produce. One the
 
 ### Contact Page
 
-The Contact page follows the samll design principles as the othe pages. The animated hero image banner is located below the navigation menu. Below this hero imgae is our contact form. The form has certain fields that must be completed before submitting. There is a text box for messaging and some checkboxs for or more popular orders. One checkbox gives the customer the option to choose the size of their cupcake orders.  
+The Contact page follows the samll design principles as the othe pages. The animated hero image banner is located below the navigation menu. Below this hero imgae is our contact form. The form has certain fields that must be completed before submitting. There is a text box for messaging and some checkboxs for or more popular orders. One checkbox gives the customer the option to choose the size of their cupcake orders. Once the conatct form has been completed the user will get a thank you message from a hidden page. 
 
 ### Prices Page
 
 The Prices page dispalys some of our prices for again our more popuar cakes. This is coupled with seperate prices for different size cakes. We have clearly outlined our delivey costs and that we only deliver to a certtain geogarpical area. If any other delivery areas further  than stated we adviose the customer to conatct us with their request.
 
-#### All pages
+### All pages
 
-#### The top of the page has an easy to use navigation bar that has a underlined border to emphsise where the user is on the website. All the pages have an animated banner, the opacity has been turned down sligthly. This is engage the user and also visually show the user what the site represents and what our business is. 
-#### The footer contains copyright information and links to social media sites that open in seperate pages.
+The top of the page has an easy to use navigation bar that has a underlined border to emphsise where the user is on the website. All the pages have an animated banner, the opacity has been turned down sligthly. This is engage the user and also visually show the user what the site represents and what our business is. 
+The footer contains copyright information and links to social media sites that open in seperate pages.
+
 ---
 
 ## 4. Technology Used In Design
