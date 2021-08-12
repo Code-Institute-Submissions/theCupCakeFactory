@@ -5,7 +5,7 @@
 ## 1. The Cupcake Factory
 
 ### 1.1 About
-* A website dedicated to ckae baking and a fast effiecient delivey service for customers. The website feature an array of cakes we bake and an easy to use contact forms for anything else a customer may want to order.We offer an excellent delivery service within certain geographical ranges. The goal is to promote our small online business while encourtaging others to try baking for themselves.  
+* A website dedicated to cake baking that includes a fast effiecient delivey service for customers. The website features an array of cakes we bake and an easy to use contact form for anything else a customer may want to order.We offer an excellent delivery service within certain geographical ranges. The goal is to promote our small online business while encouraging others to try baking for themselves.  
 
 ### 1.2 The business goals of this website are:
 * To build a regular customer base.
@@ -26,14 +26,14 @@
 * To use the website as a platform to expand our business
 ​
 ### 2.2 Design:
-* The design is very simplistic and uses pastel colors to mirro what may be found on a lot of cakes and baked goods. It has a clear navigation menu and the page is clearly lablled and it is easy to go from one page to another. 
-* The imgaes are sized correctly and each page is degined to look like the home page.
+* The design is very simplistic and uses pastel colors to mirror what may be found on a lot of cakes and baked goods. It has a clear navigation menu and the page is clearly    lablled and it is easy to go from one page to another. 
+* The imgaes are sized correctly and each page is designed to look like the home page.
 ​
 ### 2.3 User Stories
 * As a user I want navigate between pages.
 * As a user I want be able to view images pf products.
 * As a user I want to be able to see the prices of products in a clear manner.
-* As a user I want to be able to conatct the company easily.
+* As a user I want to be able to contact the company easily.
 
 ### 2.4 Target Audience
 
