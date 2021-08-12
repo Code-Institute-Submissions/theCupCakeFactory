@@ -37,10 +37,25 @@
 
 ### 2.4 Target Audience
 
+#### The target audience for our website is mainly adults looking to make purchaes of our products and to view our product range.
+
 ---
 
 ## 3. Features
 
+### 3.1 
+
+#### Home page 
+
+#### Gallery Page
+
+#### Contact Page
+
+#### Prices Page
+
+#### [All pages](../index.html) 
+
+#### The top of the page has an easy to use navigation bar that has a underlined border to emphsise where the user is on the website. All the pages have an animated banner, the opacity has been turned down sligthly. This is engage the user and also visually show the user what the site represents and what our business is. 
 ---
 
 ## 4. Technology Used In Design
@@ -53,6 +68,25 @@
 
 * CSS has been used to add styles nad animations to the site amking it more appealing for people visiting us. 
 
+* [Google Fonts:](https://fonts.google.com/)
+    - Google fonts was used to import the fonts Lato and Raleway that is used throughout the site.
+* [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used to add icons for visual and user experience (UX) purposes.
+* [Gitpod](https://gitpod.io/)
+    - Gitpod was used to develop the website.
+* [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git. And to host the project.
+* [Birme Image Resizing:](https://www.birme.net/?target_width=700&target_height=100&auto_focal=false)
+    - Image Resizer was used to resizing images and edit profile photos for the website.
+* [Balsamic:](https://balsamiq.com/)
+    - Balsamiq was used during the design process to create Wireframes.
+* [Responsive Design Checker:](http://ami.responsivedesign.is/)
+    - Am I Respnsive was used in the testing process to check responsiveness on various devices.
+* [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
+    - Used to validate the HTML code.
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+    - Used to validate the CSS code.
+
 ---
 
 ## 5. Testing
@@ -64,3 +98,4 @@
 ---
 
 ## 7. Acknoweldgments
+
