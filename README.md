@@ -105,6 +105,59 @@ The footer contains copyright information and links to social media sites that o
 
 ## 5. Testing
 
+testing was manually completed throught the use of Googles Chrome browser and Firefox browser in conjuntion with their development tools accesssed throught their website.
+
+### 5.1 User Stories Testing
+
+* #### As a user I want navigate between pages.
+On the home page in the top right their are navigation links that seemless work between each page the user wants to visit. The page the user is on is identified by the underlined border on each link as the click through the website.
+
+* #### As a user I want be able to view images pf products.
+When the user navigates to the Galley page the images for the products we offer are clearly laid out and visable to the user. Thye can hover over each image and the current image will transistion a small bit with a shadow to indicate which image is being viewed.
+
+* #### As a user I want to be able to see the prices of products in a clear manner.
+The user can nvigate through the navigation menu to the prices page where there is a list of our price laid out for differnet size products. We encourge the use of the conatct page for any other requests that use rmay need.
+
+* #### As a user I want to be able to contact the company easily.
+the copntact page is laid out with a contact from in the cneter of the page under the main hero image. Each field is identificable and any fields that are required are called out when the user clicks the contant us button. There is also a rest button in case of any user mistakes.
+
+### 5.2 Manual Testing
+Navigation - Repeated steps on all pages.
+Click on logo to confirm that it navigates to landing page.
+Click on all navigation links to verify that they direct to the indicated page.
+Verify that the current page the user is on, is highlighted as active in the menu.
+Verify that the navigation menu shifts to from hamburger on screens of 991px and above.
+Landing page
+Verify that the scroll prompt works only on screens 991px and above.
+Verify that the link to make an appointment directs the user to the contact page.
+Portfolio
+Verify that the image carousel is functional, and clicks through the images.
+Verify that images are confined to the carousel and not overflowing it.
+Paint
+Verify that the stockist button pops open a modal.
+Verify that the modal contains a table with stockist information.
+Verify that modal closes when the 'X' button is selected, or the user clicks on the screen anywhere outside of the modal window.
+Contact
+Verify that all elements that are set to required are working.
+Verify that valid email address is needed with relevant '@' included.
+Verify that 'Submit' button directs user to a success page.
+Form success
+Verify that navigation elements work the same as all other pages.
+Verify that the page automatically redirects the user to the services page after 10 seconds, as indicated.
+Footer - Repeated steps on all pages.
+Verify that the social media links open in a new tab.
+Verify that the email link directs the user to a custom 404 error page when selected.
+Verify that the 404 error page 'Return home' link brings the user back to the landing page.
+Verify that the phone number shown is dialled when selected.
+Verify that the website hyperlink directs the user back to the landing page.
+
+### Additional Testing  
+
+
+W3C - HTML Validator
+
+W3C - CSS Validator
+
 ---
 
 ## 6. Deployment
