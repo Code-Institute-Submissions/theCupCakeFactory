@@ -45,9 +45,11 @@
 
 ### 3.1 
 
-#### [Home page](../index.html) 
+#### [Home page](index.html) 
 
 The home page features a hero image that is animated to draw the attention of the visitor to the purpose of our business. The image does remain animated from desktop down to mobile size. Under the hero image we have two small paragraphs outlining outlining why a customer should use our services and a question as to waht we do. We have a lkist outlining some of the occasions we cater for and a call to action button to contact us if anything else is reuired or any special requests are needed.
+
+Further down the home page I have three images that are animated to show the transaforamtion of some of our bakes. These images are used as far down as tablet size but one we move to mobile sizes I have decided to hide the images to improve performance on small screen sizes
 
 #### Gallery Page
 
@@ -55,7 +57,7 @@ The home page features a hero image that is animated to draw the attention of th
 
 #### Prices Page
 
-#### [All pages]
+#### All pages
 
 #### The top of the page has an easy to use navigation bar that has a underlined border to emphsise where the user is on the website. All the pages have an animated banner, the opacity has been turned down sligthly. This is engage the user and also visually show the user what the site represents and what our business is. 
 #### The footer contains copyright information and links to social media sites that open in seperate pages.
