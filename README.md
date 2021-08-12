@@ -70,6 +70,9 @@ The Prices page dispalys some of our prices for again our more popuar cakes. Thi
 The top of the page has an easy to use navigation bar that has a underlined border to emphsise where the user is on the website. All the pages have an animated banner, the opacity has been turned down sligthly. This is engage the user and also visually show the user what the site represents and what our business is. 
 The footer contains copyright information and links to social media sites that open in seperate pages.
 
+![All pages](assets/sitescreens/home_nav.PNG)
+![All pages](assets/sitescreens/social_navs.PNG)
+
 ---
 
 ## 4. Technology Used In Design
@@ -105,7 +108,7 @@ The footer contains copyright information and links to social media sites that o
 
 ## 5. Testing
 
-testing was manually completed throught the use of Googles Chrome browser and Firefox browser in conjuntion with their development tools accesssed throught their website.
+Testing was manually completed throught the use of Googles Chrome browser and Firefox browser in conjuntion with their development tools accesssed throught their website.
 
 ### 5.1 User Stories Testing
 
