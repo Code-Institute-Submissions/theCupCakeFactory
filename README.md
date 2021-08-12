@@ -47,19 +47,23 @@
 
 ### 3.1 
 
-#### [Home page](index.html) 
+### Home page 
 
 The home page features a hero image that is animated to draw the attention of the visitor to the purpose of our business. The image does remain animated from desktop down to mobile size. Under the hero image we have two small paragraphs outlining outlining why a customer should use our services and a question as to waht we do. We have a lkist outlining some of the occasions we cater for and a call to action button to contact us if anything else is reuired or any special requests are needed.
 
 Further down the home page I have three images that are animated to show the transaforamtion of some of our bakes. These images are used as far down as tablet size but one we move to mobile sizes I have decided to hide the images to improve performance on small screen sizes.
 
-#### Gallery Page
+### Gallery Page
 
-The 
+The Gallery page has a small selection of the ckaes that we can produce. One the user hovers over them the are designed to satnd out with a box shadow. The page also include tha call to action contact button in case the user would like to make contact and request one of the cakes in the gallery.
 
-#### Contact Page
+### Contact Page
 
-#### Prices Page
+The Contact page follows the samll design principles as the othe pages. The animated hero image banner is located below the navigation menu. Below this hero imgae is our contact form. The form has certain fields that must be completed before submitting. There is a text box for messaging and some checkboxs for or more popular orders. One checkbox gives the customer the option to choose the size of their cupcake orders.  
+
+### Prices Page
+
+The Prices page dispalys some of our prices for again our more popuar cakes. This is coupled with seperate prices for different size cakes. We have clearly outlined our delivey costs and that we only deliver to a certtain geogarpical area. If any other delivery areas further  than stated we adviose the customer to conatct us with their request.
 
 #### All pages
 
