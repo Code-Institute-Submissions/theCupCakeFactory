@@ -1,3 +1,4 @@
+/* Global styles */
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Raleway:wght@500&display=swap');
 * {
     margin: 0;
@@ -9,6 +10,25 @@ body {
     font-weight: 300;
     color: #a18593;
     background-color: #FAE3E3;
+}
+/* Buttons and links for call to action buttons on all pages to redirect to contact page */
+.call-to-contact {
+    text-decoration: none;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #fafafa;
+    color:#36232c;
+    display: block;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.call-to-contact:hover {
+    background-color: #af889a;
+    color: #fafafa;
 }
 /* logo styling home page */
 #top-logo {
@@ -71,6 +91,9 @@ body {
 }
 #why-us {
     height: 370px;
+}
+#pictures {
+    margin-top: 80px;
 }
 /* Article section */
 .events-list {
