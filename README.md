@@ -112,3 +112,12 @@ The Prices page dispalys some of our prices for again our more popuar cakes. Thi
 
 ## 7. Acknoweldgments
 
+---
+
+## 7. Bugs
+
+### 3.1 Gitpod
+
+Bug found in Gitpod where the text in the terminal is virtually unreadble making speeling mistakes hard to see when writing commit messages.
+
+![Gitpod terminal image](assets/images/gitpod_img.PNG)
