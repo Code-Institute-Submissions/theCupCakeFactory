@@ -45,7 +45,9 @@
 
 ### 3.1 
 
-#### [Home page](index.html) 
+#### [Home page](../index.html) 
+
+The home page features a hero image that is animated to draw the attention of the visitor to the purpose of our business. The image does remain animated from desktop down to mobile size. Under the hero image we have two small paragraphs outlining outlining why a customer should use our services and a question as to waht we do. We have a lkist outlining some of the occasions we cater for and a call to action button to contact us if anything else is reuired or any special requests are needed.
 
 #### Gallery Page
 
