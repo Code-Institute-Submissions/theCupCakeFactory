@@ -1,60 +1,45 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Raleway:wght@500&display=swap');
-
-
 * {
     margin: 0;
     padding: 0;
     border: none;
 }
-
 body {
     font-family: Raleway, sans-serif;
     font-weight: 300;
     color: #a18593;
     background-color: #FAE3E3;
 }
-
 /* logo styling home page */
-
-
 #top-logo {
     float: left;
     font-size: 280%;
     margin-left: 30px;
     text-transform: uppercase;
 }
-
 #top-logo a {
     text-decoration: none;
     color: #36232c;
 }
-
 /* nav bar styling home page linking to all other pages*/
-
 #nav-menu,
 #top-logo {
     line-height: 75px;
 }
-
 #nav-menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
     color: #36232c;
 }
-
 #nav-menu a {
     color: inherit;
     text-decoration: none;
 }
-
-
 .active {
     border-bottom: 1px solid #36232c;
 }
-
 /* div style placeholder */
-
 #main-image {
     height: 400px;
     width: 100%;
@@ -63,9 +48,7 @@ body {
     background-color: rgb(250, 233, 236);
     clear: both;
 }
-
 /* images and visdeos from https://pxhere.com/en/photo/490713 */
-
 #hero-image > video {
     object-fit: cover;
     width: 100vw;
@@ -73,29 +56,23 @@ body {
     left: 0;
     opacity: 0.5;
 } 
-
 /* why us section */
-
 .section_one_heading {
     font-size: 2.1rem;
     text-align: center;
     margin: 20px 0 20px 0;
     color: #36232c;
 }
-
 .why-paragraph {
     font-size: 1.2rem;
     text-align: center;
     margin: 0 100px 0 100px;
     color: #36232c;
 }
-
 #why-us {
     height: 370px;
 }
-
 /* Article section */
-
 .events-list {
     padding: 20px;
     font-size: 1.1rem;
@@ -103,16 +80,11 @@ body {
     line-height: 1.5;
     color: #36232c;
 }
-
 .events-list li {
     list-style-type: none;
 }
-
-
 /* third section with pictures */
-
 /* images from https://www.pexels.com/ */
-
 .left {
     border-radius: 0 10px 10px 0;
     padding-top: 30px;
@@ -124,7 +96,6 @@ body {
     animation-name: pictures-left;
     animation-duration: 4s;
 }
-
 .right {
     border-radius: 10px 0 0 10px;
     padding-top: 30px;
@@ -136,7 +107,6 @@ body {
     animation-name: pictures-right;
     animation-duration: 4s;
 }
-
 .center {
     border-radius: 10px;
     width: 30%;
@@ -147,7 +117,7 @@ body {
     animation-name: pictures-center;
     animation-duration: 4s;
 }
-
+/* Animations that will play on the home page once when loaded */
 @keyframes pictures-center {
     from {
         background: url('../images/center_home_start.jpg')no-repeat center center;
@@ -157,7 +127,6 @@ body {
         background: url('../images/center_home_middle.jpg')no-repeat center center;
     }
 }
-
 @keyframes pictures-left {
     from {
         background: url('../images/cake-start.jpg')no-repeat center center
@@ -167,7 +136,6 @@ body {
         background: url('../images/cake-middle.jpg')no-repeat center center;
     }
 }
-
 @keyframes pictures-right {
     from {
         background: url('../images/homepage-cupcake-start.jpg')no-repeat center center;
@@ -177,20 +145,16 @@ body {
         background: url('../images/cupcake-home-finished.jpg')no-repeat center center;
     }
 }
-
 /* Form page contact us */
-
 #google-map iframe {
     width: 100%;
 }
 .map-head {
     text-align: center;
 }
-
 #form-section {
     height: 900px;
 }
-
 .signup-form {
     margin: 30px auto;
     color: #fff;
@@ -200,13 +164,11 @@ body {
     border-radius: 10px;
     box-shadow: 10px 10px 5px grey;
 }
-
 .signup-form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
     text-align: center;
 }
-
 .text-input {
     background: transparent;
     color: #fafafa;
@@ -217,16 +179,12 @@ body {
     border-radius: 2px;
     padding: 2px;
 }
-
 .text-input:focus {
     color: #fafafa;
 }
-
 .text-input:hover {
-    border-color: #fafafa;
-    
+    border-color: #fafafa;   
 }
-
 .join-button    {
     margin-top: 20px;
     border-radius: 2px;
@@ -239,18 +197,14 @@ body {
     cursor: pointer;
     border-radius: 10px;
 }
-
 .join-button:hover {
     background-color: #af889a;
     color: #fafafa;
 }
-
 ::placeholder {
     color: #fafafa;
 }
-
 /* Added thank you page for contact form and styled a back button link to home page */
-
 .back-button {
     display: grid;
     justify-content: center;
@@ -261,51 +215,41 @@ body {
     padding: 15px 32px 15px 32px;
     font-size: 1.4rem;
 }
-
 /* Style for the text box on the contact form */
-
 #subject {
     width: 600px;
     height: 150px;
 }
-
 .address-info {
     float: right;
     position: relative;
     bottom: 100px;
     right: 150px;
 }
-
 .address-paragrapgh {
     margin-top: 20px;
 }
-
 /* Footer styles */
 /* social icons from font awesome */
-
 footer {
     width: 100%;
     height: 80px;
     background-color: #FAE3E3;
     clear: both;
 }
-
 .social-networks {
     text-align: center;
 }
-
 .social-networks>li {
     display: inline;
 
 }
-
 .social-networks i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
     color: #36232c;
 }
-
 .footer-copyright {
     font-size: 1.1rem;
     padding: 10px;
@@ -313,9 +257,7 @@ footer {
     margin-bottom: 40px;
     color: #36232c;
 }
-
 /* Gallery Styles */
-
 .gallery-head {
     text-align: center;
     font-size: 2rem;
@@ -323,13 +265,11 @@ footer {
     margin: 20px 20px;
     color: #36232c;
 }
-
 .gallery-paragraph {
     text-align: center;
     font-size: 1.2rem;
     color: #36232c;
 }
-
 #content {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -338,31 +278,22 @@ footer {
     margin: 20px 20px;
     overflow: hidden;
 }
-
 #content img {
     border: 1px solid #ccc;
     box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
     max-width: 100%;
   }
-
-
 #content img:hover {
   cursor: pointer;
   box-shadow: 10px 10px 5px grey;
 }
-
-
-
-
 /* Prices page styles */
-
 .price-table {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     color: #36232c;
 }
-
 .why-paragraph-delivery {
     font-size: 1rem;
     text-align: center;
@@ -370,8 +301,6 @@ footer {
     font-weight: bold;
     color: #36232c;
 }
-
-
 .why-paragraph-delivery-table {
     font-size: 1rem;
     text-align: center;
@@ -379,27 +308,19 @@ footer {
     font-weight: bold;
     color: #36232c;
 }
-
 .why-paragraph-delivery-table > a {
     text-decoration: none;
     color: #800040;
 }
-
 #why-us-prices {
     height: 180px;
 }
-
 th ,td {
     padding: 10px;
     color: #36232c;
 }
-
 /* Media queries 1200px maximum width */
-
 @media screen and (max-width: 1200px) {
-    /* .left, .right, .center {
-        display: none;
-    } */
     #top-logo {
         float: left;
         font-size: 200%;
@@ -449,7 +370,6 @@ th ,td {
         animation-name: pictures-left;
         animation-duration: 4s;
     }
-    
     .right {
         border-radius: 10px 0 0 10px;
         padding-top: 30px;
@@ -460,8 +380,7 @@ th ,td {
     
         animation-name: pictures-right;
         animation-duration: 20s;
-    }
-    
+    } 
     .center {
         border-radius: 10px;
         width: 30%;
@@ -472,7 +391,6 @@ th ,td {
         animation-name: pictures-center;
         animation-duration: 8s;
     }
-    
     @keyframes pictures-center {
         from {
             background: url('../images/center_home_start.jpg')no-repeat center center;
@@ -482,7 +400,6 @@ th ,td {
             background: url('../images/center_home_middle.jpg')no-repeat center center;
         }
     }
-    
     @keyframes pictures-left {
         from {
             background: url('../images/cake-start.jpg')no-repeat center center
@@ -492,7 +409,6 @@ th ,td {
             background: url('../images/cake-middle.jpg')no-repeat center center;
         }
     }
-    
     @keyframes pictures-right {
         from {
             background: url('../images/homepage-cupcake-start.jpg')no-repeat center center;
@@ -503,9 +419,7 @@ th ,td {
         }
     }
   }
-
 /* Media queries 850px maximum width */
-
   @media screen and (max-width: 950px) {
     .left, .right, .center {
         display: none;
@@ -561,12 +475,8 @@ th ,td {
         margin-left: 30px;
         color: #36232c;
     }
- 
   }
-
-
   /* Media queries 720px maximum width */
-
   @media screen and (max-width: 500px) {
     .price-table {
         margin-top: 120px;
@@ -575,13 +485,11 @@ th ,td {
         text-align: center;
         color: #36232c;
     }
-
     .events-list {
         padding: 10px;
         font-size: 1rem;
         text-align: center;
     }
-    
      .signup-form {
         margin: 30px auto;
         color: #fff;
@@ -590,8 +498,7 @@ th ,td {
         padding: 30px;
         border-radius: 10px;
         box-shadow: 10px 10px 5px grey;
-}
-
+    }
      .text-input {
         background: transparent;
         color: #fafafa;
@@ -601,19 +508,15 @@ th ,td {
         border: 1px solid #fafafa;
         border-radius: 2px;
         padding: 2px;
-}
-
+    }
       .address-info {
         float: right;
         position: relative;
         bottom: 100px;
         right: 50px;
-}
-
+    }
   }
-
   /* Media queries 415px maximum width */
-
   @media screen and (max-width: 415px) {
     .price-table {
         margin-top: 120px;
@@ -621,25 +524,21 @@ th ,td {
         margin-right: auto;
         text-align: center;
         color: #36232c;
-    }
-    
+    } 
     .why-paragraph-delivery {
         font-size: 1.2rem;
         text-align: center;
         margin: 20px 100px 0 100px;
         font-weight: bold;
         color: #36232c;
-    }
-    
+    }  
     #why-us-prices {
         height: 180px;
-    }
-    
+    }  
     th ,td {
         padding: 10px;
         color: #36232c;
     }
-
     #nav-menu {
         clear: left;
         float: left;
@@ -647,17 +546,14 @@ th ,td {
         color: #36232c;
         font-size: 0.8rem;
     }
-
     #social-contact {
         margin-top: 40px;
     }
-
     #content img {
         border: 1px solid #ccc;
         box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
         max-width: 70%;
-      }
-
+    }
       #content {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -666,11 +562,8 @@ th ,td {
         margin: 20px 20px;
         overflow: hidden;
     }
-
   }
-
   /* Media queries 375px maximum width */
-
   @media screen and (max-width: 375px) {
     #nav-menu  {
         clear: left;
@@ -679,13 +572,11 @@ th ,td {
         color: #36232c;
         font-size: 0.7rem;
     }
-
     .events-list {
         padding: 10px;
         font-size: 1rem;
         text-align: center;
     }
-
     .why-paragraph-delivery {
         font-size: 1.1rem;
         text-align: center;
@@ -703,7 +594,6 @@ th ,td {
     .social-networks {
         padding-top: 30px;
     }
-
     .join-button    {
         margin-top: 20px;
         padding: 5px 5px 5px 5px;
@@ -715,46 +605,34 @@ th ,td {
         cursor: pointer;
         border-radius: 10px;
     }
-    
     .join-button:hover {
         background-color: #af889a;
         color: #fafafa;
     }
-
   }
-
-
   /* Media queries 321px maximum width */
-
   @media screen and (max-width: 320px) {
-
     #top-logo {
         font-size: 1.3rem;
     }
-
     #nav-menu  {
-
         list-style-type: none;
         color: #36232c;
         font-size: .8em;
     }
-
     #nav-menu ul li {
         margin-right: 0;
         padding: 5px;
     }
-
     .section_one_heading {
         font-size: 1rem;
     }
-
     .events-list {
         margin-bottom: 50px;
         font-size: .8rem;
         text-align: center;
         padding-top: 20px;
     }
-
     .address-info {
         float: right;
         position: relative;
@@ -762,7 +640,6 @@ th ,td {
         right: 10px;
         font-size: 0.8rem;
     }
-
     .why-paragraph-delivery {
         font-size: .8rem;
         text-align: center;
@@ -770,12 +647,10 @@ th ,td {
         font-weight: bold;
         color: #36232c;
     }
-
     .why-paragraph-delivery-table {
         font-size: 0.8rem;
         padding-top: 5%;
     }
-
     .price-table {
         margin-top: 180px;
         margin-left: auto;
@@ -783,20 +658,16 @@ th ,td {
         text-align: center;
         color: #36232c;
     }
-
     .social-networks i {
         padding-top: 10px;
         margin-top: 70px;
     }
-
     .gallery-head {
         font-size: 1.1rem;
     }
-
     .gallery-paragraph {
         font-size: 1rem;
     }
-
     .join-button    {
         margin-top: 20px;
         padding: 5px 5px 5px 5px;
@@ -807,25 +678,20 @@ th ,td {
         display: block;
         cursor: pointer;
         border-radius: 10px;
-    }
-    
+    }  
     .join-button:hover {
         background-color: #af889a;
         color: #fafafa;
     }
-
     .footer-copyright {
         margin-bottom: 0;
         margin-top: 10px;
         font-size: 0.9rem;
     }
-
     th {
         font-size: 0.8rem;
     }
-
     td {
         font-size: 0.8rem;
     }
-
   }
