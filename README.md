@@ -53,17 +53,26 @@ The home page features a hero image that is animated to draw the attention of th
 
 Further down the home page I have three images that are animated to show the transaforamtion of some of our bakes. These images are used as far down as tablet size but one we move to mobile sizes I have decided to hide the images to improve performance on small screen sizes.
 
+![All pages](assets/sitescreens/home_page.PNG)
+
 ### Gallery Page
 
 The Gallery page has a small selection of the ckaes that we can produce. One the user hovers over them the are designed to satnd out with a box shadow. The page also include tha call to action contact button in case the user would like to make contact and request one of the cakes in the gallery.
+
+![All pages](assets/sitescreens/gallery.PNG)
 
 ### Contact Page
 
 The Contact page follows the samll design principles as the othe pages. The animated hero image banner is located below the navigation menu. Below this hero imgae is our contact form. The form has certain fields that must be completed before submitting. There is a text box for messaging and some checkboxs for or more popular orders. One checkbox gives the customer the option to choose the size of their cupcake orders. Once the conatct form has been completed the user will get a thank you message from a hidden page. 
 
+![All pages](assets/sitescreens/contactform.PNG)
+![All pages](assets/sitescreens/contactmap.PNG)
+
 ### Prices Page
 
 The Prices page dispalys some of our prices for again our more popuar cakes. This is coupled with seperate prices for different size cakes. We have clearly outlined our delivey costs and that we only deliver to a certtain geogarpical area. If any other delivery areas further  than stated we adviose the customer to conatct us with their request.
+
+![All pages](assets/sitescreens/prices.PNG)
 
 ### All pages
 
