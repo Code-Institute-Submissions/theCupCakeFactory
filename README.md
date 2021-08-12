@@ -45,7 +45,7 @@
 
 ### 3.1 
 
-#### Home page 
+#### [Home page](index.html) 
 
 #### Gallery Page
 
@@ -53,9 +53,10 @@
 
 #### Prices Page
 
-#### [All pages](../index.html) 
+#### [All pages]
 
 #### The top of the page has an easy to use navigation bar that has a underlined border to emphsise where the user is on the website. All the pages have an animated banner, the opacity has been turned down sligthly. This is engage the user and also visually show the user what the site represents and what our business is. 
+#### The footer contains copyright information and links to social media sites that open in seperate pages.
 ---
 
 ## 4. Technology Used In Design
