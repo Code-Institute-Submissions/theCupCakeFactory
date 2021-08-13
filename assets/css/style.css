@@ -537,8 +537,8 @@ th ,td {
         right: 50px;
     }
   }
-  /* Media queries 414px maximum width */
-  @media screen and (max-width: 414px) {
+  /* Media queries 411px maximum width */
+  @media screen and (max-width: 411px) {
     .call-to-contact {
         text-decoration: none;
         width: 100px;
@@ -565,7 +565,7 @@ th ,td {
         color: #36232c;
     } 
     .why-paragraph-delivery {
-        font-size: 1.2rem;
+        font-size: .8rem;
         text-align: center;
         margin: 20px 100px 0 100px;
         font-weight: bold;
@@ -600,6 +600,12 @@ th ,td {
         justify-items: center;
         margin: 20px 20px;
         overflow: hidden;
+    }
+       th {
+        font-size: 0.9rem;
+    }
+       td {
+        font-size: 0.9rem;
     }
   }
   /* Media queries 360px maximum width */
