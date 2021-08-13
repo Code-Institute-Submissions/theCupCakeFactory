@@ -387,7 +387,6 @@ th ,td {
         height: 300px;
         float: left;
         background: url('../images/finish-cake.jpg')no-repeat center center;
-    
         animation-name: pictures-left;
         animation-duration: 4s;
     }
@@ -398,7 +397,6 @@ th ,td {
         height: 300px;
         float: right;
         background: url('../images/cupcake-home-finished.jpg')no-repeat center center;
-    
         animation-name: pictures-right;
         animation-duration: 20s;
     } 
@@ -408,7 +406,6 @@ th ,td {
         height: 330px;
         margin: 0 auto;
         background: url('../images/center_home_finish.jpg')no-repeat center center;
-    
         animation-name: pictures-center;
         animation-duration: 8s;
     }
@@ -440,7 +437,7 @@ th ,td {
         }
     }
   }
-/* Media queries 850px maximum width */
+/* Media queries 950px maximum width */
   @media screen and (max-width: 950px) {
     .left, .right, .center {
         display: none;
@@ -497,7 +494,47 @@ th ,td {
         color: #36232c;
     }
   }
-  /* Media queries 720px maximum width */
+  /* Media queries 763px maximum width */
+  @media screen and (max-width: 763px) {
+    .price-table {
+        margin-top: 120px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        color: #36232c;
+    }
+    .events-list {
+        padding: 10px;
+        font-size: 1rem;
+        text-align: center;
+    }
+     .signup-form {
+        margin: 30px auto;
+        color: #fff;
+        background-color: #896978;
+        max-width: 400px;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 10px 10px 5px grey;
+    }
+     .text-input {
+        background: transparent;
+        color: #fafafa;
+        max-width: 100%;
+        height: 25px;
+        margin: 5px 0 20px 0;
+        border: 1px solid #fafafa;
+        border-radius: 2px;
+        padding: 2px;
+    }
+      .address-info {
+        float: right;
+        position: relative;
+        bottom: 100px;
+        right: 50px;
+    }
+  }
+  /* Media queries 500px maximum width */
   @media screen and (max-width: 500px) {
     .price-table {
         margin-top: 120px;
@@ -537,8 +574,8 @@ th ,td {
         right: 50px;
     }
   }
-  /* Media queries 411px maximum width */
-  @media screen and (max-width: 411px) {
+  /* Media queries 414px maximum width */
+  @media screen and (max-width: 414px) {
     .call-to-contact {
         text-decoration: none;
         width: 100px;
@@ -631,7 +668,7 @@ th ,td {
     }
   }
   /* Media queries 360px maximum width */
-  @media screen and (max-width: 360px) {
+  @media screen and (max-width: 375px) {
     #nav-menu  {
         clear: left;
         float: left;
