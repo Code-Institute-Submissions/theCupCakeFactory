@@ -602,8 +602,8 @@ th ,td {
         overflow: hidden;
     }
   }
-  /* Media queries 375px maximum width */
-  @media screen and (max-width: 375px) {
+  /* Media queries 360px maximum width */
+  @media screen and (max-width: 360px) {
     #nav-menu  {
         clear: left;
         float: left;
@@ -616,8 +616,11 @@ th ,td {
         font-size: 1rem;
         text-align: center;
     }
+    .why-paragraph {
+        font-size: 0.8rem;
+    }
     .why-paragraph-delivery {
-        font-size: 1.1rem;
+        font-size: .9rem;
         text-align: center;
         margin: 20px 100px 20px 100px;
         font-weight: bold;
@@ -697,7 +700,6 @@ th ,td {
         right: 10px;
         font-size: 0.8rem;
     }
-
     .why-paragraph {
         font-size: 0.8rem;
     }
