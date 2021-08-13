@@ -106,7 +106,7 @@ body {
 .events-list li {
     list-style-type: none;
 }
-/* third section with pictures */
+/* third section of the home page with animated pictures */
 /* images from https://www.pexels.com/ */
 .left {
     border-radius: 0 10px 10px 0;
@@ -126,7 +126,6 @@ body {
     height: 350px;
     float: right;
     background: url('../images/cupcake-home-finished.jpg')no-repeat center center;
-
     animation-name: pictures-right;
     animation-duration: 4s;
 }
@@ -136,7 +135,6 @@ body {
     height: 380px;
     margin: 0 auto;
     background: url('../images/center_home_finish.jpg')no-repeat center center;
-
     animation-name: pictures-center;
     animation-duration: 4s;
 }
@@ -651,7 +649,7 @@ th ,td {
         color: #fafafa;
     }
   }
-  /* Media queries 321px maximum width */
+  /* Media queries 320px maximum width */
   @media screen and (max-width: 320px) {
     .call-to-contact {
         text-decoration: none;
@@ -697,6 +695,10 @@ th ,td {
         position: relative;
         bottom: 90px;
         right: 10px;
+        font-size: 0.8rem;
+    }
+
+    .why-paragraph {
         font-size: 0.8rem;
     }
     .why-paragraph-delivery {
