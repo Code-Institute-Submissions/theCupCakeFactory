@@ -7,15 +7,15 @@
 ## 1. The Cupcake Factory
 
 ### 1.1 About
-* A website dedicated to cake baking that includes a fast effiecient delivey service for customers. The website features an array of cakes we bake and an easy to use contact form for anything else a customer may want to order.We offer an excellent delivery service within certain geographical ranges. The goal is to promote our small online business while encouraging others to try baking for themselves.  
+* A website dedicated to cake baking that includes a fast efficient delivery service for customers. The website features an array of cakes we bake and an easy to use contact form for anything else a customer may want to order.We offer an excellent delivery service within certain geographical ranges. The goal is to promote our small online business while encouraging others to try baking for themselves.  
 
 ### 1.2 The business goals of this website are:
 * To build a regular customer base.
-* To always provide quaility products.
+* To always provide quality products.
 
 ### 1.3 The customer goals of this website are:
 * To visit and browse our products and to order their products with ease.
-* Clear easy to find product pricing and delievry prices.
+* Clear easy to find product pricing and delivery prices.
 
 ---
  
@@ -23,12 +23,12 @@
 
 
 ### 2.1 Project goals:
-* The main goal of the project is to advertise our bussiness and products to a wider audience.
+* The main goal of the project is to advertise our business and products to a wider audience.
 * To increase visitors to the website.
 * To use the website as a platform to expand our business
 ​
 ### 2.2 Design:
-* The design is very simplistic and uses pastel colors to mirror what may be found on a lot of cakes and baked goods. It has a clear navigation menu and the page is clearly    lablled and it is easy to go from one page to another. 
+* The design is very simplistic and uses pastel colors to mirror what may be found on a lot of cakes and baked goods. It has a clear navigation menu and the page is clearly    labeled and it is easy to go from one page to another. 
 * The images are sized correctly and each page is designed to look like the home page.
 ​
 ### 2.3 User Stories
@@ -39,7 +39,7 @@
 
 ### 2.4 Target Audience
 
-* The target audience for our website is mainly adults looking to make purchaes of our products and to view our product range.
+* The target audience for our website is mainly adults looking to make purchase of our products and to view our product range.
 
 ### 2.5 Wireframes
 
@@ -53,35 +53,35 @@
 
 ### Home page 
 
-The home page features a hero image that is animated to draw the attention of the visitor to the purpose of our business. The image does remain animated from desktop down to mobile size. Under the hero image we have two small paragraphs outlining outlining why a customer should use our services and a question as to waht we do. We have a lkist outlining some of the occasions we cater for and a call to action button to contact us if anything else is reuired or any special requests are needed.
+The home page features a hero image that is animated to draw the attention of the visitor to the purpose of our business. The image does remain animated from desktop down to mobile size. Under the hero image we have two small paragraphs outlining outlining why a customer should use our services and a question as to what we do. We have a list outlining some of the occasions we cater for and a call to action button to contact us if anything else is required or any special requests are needed.
 
-Further down the home page I have three images that are animated to show the transaforamtion of some of our bakes. These images are used as far down as tablet size but one we move to mobile sizes I have decided to hide the images to improve performance on small screen sizes.
+Further down the home page I have three images that are animated to show the transformation of some of our bakes. These images are used as far down as tablet size but one we move to mobile sizes I have decided to hide the images to improve performance on small screen sizes.
 
 ![All pages](assets/sitescreens/home_page.PNG)
 
 ### Gallery Page
 
-The Gallery page has a small selection of the ckaes that we can produce. One the user hovers over them the are designed to satnd out with a box shadow. The page also include tha call to action contact button in case the user would like to make contact and request one of the cakes in the gallery.
+The Gallery page has a small selection of the cakes that we can produce. One the user hovers over them the are designed to stand out with a box shadow. The page also include tha call to action contact button in case the user would like to make contact and request one of the cakes in the gallery.
 
 ![All pages](assets/sitescreens/gallery.PNG)
 
 ### Contact Page
 
-The Contact page follows the samll design principles as the othe pages. The animated hero image banner is located below the navigation menu. Below this hero imgae is our contact form. The form has certain fields that must be completed before submitting. There is a text box for messaging and some checkboxs for or more popular orders. One checkbox gives the customer the option to choose the size of their cupcake orders. Once the conatct form has been completed the user will get a thank you message from a hidden page. 
+The Contact page follows the small design principles as the other pages. The animated hero image banner is located below the navigation menu. Below this hero image is our contact form. The form has certain fields that must be completed before submitting. There is a text box for messaging and some checkboxes for or more popular orders. One checkbox gives the customer the option to choose the size of their cupcake orders. Once the contact form has been completed the user will get a thank you message from a hidden page. 
 
 ![All pages](assets/sitescreens/contactform.PNG)
 ![All pages](assets/sitescreens/contactmap.PNG)
 
 ### Prices Page
 
-The Prices page dispalys some of our prices for again our more popuar cakes. This is coupled with seperate prices for different size cakes. We have clearly outlined our delivey costs and that we only deliver to a certtain geogarpical area. If any other delivery areas further  than stated we adviose the customer to conatct us with their request.
+The Prices page displays some of our prices for again our more popular cakes. This is coupled with separate prices for different size cakes. We have clearly outlined our delivery costs and that we only deliver to a certain geographical area. If any other delivery areas further  than stated we advise the customer to contact us with their request.
 
 ![All pages](assets/sitescreens/prices.PNG)
 
 ### All pages
 
-The top of the page has an easy to use navigation bar that has a underlined border to emphsise where the user is on the website. All the pages have an animated banner, the opacity has been turned down sligthly. This is engage the user and also visually show the user what the site represents and what our business is. 
-The footer contains copyright information and links to social media sites that open in seperate pages.
+The top of the page has an easy to use navigation bar that has a underlined border to emphasize where the user is on the website. All the pages have an animated banner, the opacity has been turned down slightly. This is engage the user and also visually show the user what the site represents and what our business is. 
+The footer contains copyright information and links to social media sites that open in separate pages.
 
 ![All pages](assets/sitescreens/home_nav.PNG)
 ![All pages](assets/sitescreens/social_navs.PNG)
@@ -96,7 +96,7 @@ The footer contains copyright information and links to social media sites that o
 
 ### 4.2 CSS
 
-* CSS has been used to add styles nad animations to the site amking it more appealing for people visiting us. 
+* CSS has been used to add styles and animations to the site making the website more appealing for people visiting us. 
 
 * [Google Fonts:](https://fonts.google.com/)
     - Google fonts was used to import the fonts Lato and Raleway that is used throughout the site.
@@ -111,7 +111,7 @@ The footer contains copyright information and links to social media sites that o
 * [Balsamic:](https://balsamiq.com/)
     - Balsamiq was used during the design process to create Wireframes.
 * [Responsive Design Checker:](http://ami.responsivedesign.is/)
-    - Am I Respnsive was used in the testing process to check responsiveness on various devices.
+    - Am I Responsive was used in the testing process to check responsiveness on various devices.
 * [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
     - Used to validate the HTML code.
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
@@ -121,21 +121,21 @@ The footer contains copyright information and links to social media sites that o
 
 ## 5. Testing
 
-Testing was manually completed throught the use of Googles Chrome browser and Firefox browser in conjuntion with their development tools accesssed throught their website.
+Testing was manually completed through the use of Googles Chrome browser and Firefox browser in conjunction with their development tools accessed through their website.
 
 ### 5.1 User Stories Testing
 
 * #### As a user I want navigate between pages.
-On the home page in the top right their are navigation links that seemless work between each page the user wants to visit. The page the user is on is identified by the underlined border on each link as the click through the website.
+On the home page in the top right their are navigation links that seamless work between each page the user wants to visit. The page the user is on is identified by the underlined border on each link as the click through the website.
 
 * #### As a user I want be able to view images pf products.
-When the user navigates to the Galley page the images for the products we offer are clearly laid out and visable to the user. Thye can hover over each image and the current image will transistion a small bit with a shadow to indicate which image is being viewed.
+When the user navigates to the Galley page the images for the products we offer are clearly laid out and visible to the user. They can hover over each image and the current image will transition a small bit with a shadow to indicate which image is being viewed.
 
 * #### As a user I want to be able to see the prices of products in a clear manner.
-The user can nvigate through the navigation menu to the prices page where there is a list of our price laid out for differnet size products. We encourge the use of the conatct page for any other requests that use rmay need.
+The user can navigate through the navigation menu to the prices page where there is a list of our price laid out for different size products. We encourage the use of the contact page for any other requests that use may need.
 
 * #### As a user I want to be able to contact the company easily.
-the copntact page is laid out with a contact from in the cneter of the page under the main hero image. Each field is identificable and any fields that are required are called out when the user clicks the contant us button. There is also a rest button in case of any user mistakes.
+The contact page is laid out with a contact from in the center of the page under the main hero image. Each field is identifiable and any fields that are required are called out when the user clicks the contact us button. There is also a rest button in case of any user mistakes.
 
 ### 5.2 Manual Testing
 1. Navigation - Repeated steps on all pages.
@@ -143,11 +143,11 @@ the copntact page is laid out with a contact from in the cneter of the page unde
 * Click on logo to confirm that it navigates to the home page.
 * Click on all navigation links to verify that they direct to the correct pages.
 * Verify that the current page the user is on, is highlighted as active in the menu with border underline.
-* Verify that the navigation menu adjusts to the size of differnet screens. The navigation menu should shift from right to left and cwnter for moblies.
+* Verify that the navigation menu adjusts to the size of different screens. The navigation menu should shift from right to left and center for mobiles.
 
 2. Home page
-* Verification that the banner on the hero imgae plays when the page is loaeded and continues to do so
-* Verify thta the animation on the three images plays once the page is loaded.
+* Verification that the banner on the hero image plays when the page is loaded and continues to do so
+* Verify that the animation on the three images plays once the page is loaded.
 * Verify that the call to action contact button redirects to the correct page.
 
 3. Gallery
@@ -188,7 +188,7 @@ W3C - CSS Validator
 
 ---
 
-## 7. Acknoweldgments
+## 7. Acknowledgments
 
 ---
 
@@ -196,6 +196,6 @@ W3C - CSS Validator
 
 ### 7.1 Gitpod
 
-Bug found in Gitpod where the text in the terminal is virtually unreadble making spelling mistakes hard to see when writing commit messages. This was identified as a known issue and was being investigated by the Gitpod teams.
+Bug found in Gitpod where the text in the terminal is virtually unreadable making spelling mistakes hard to see when writing commit messages. This was identified as a known issue and was being investigated by the Gitpod teams.
 
 ![Gitpod terminal image](assets/images/gitpod_img.PNG)
