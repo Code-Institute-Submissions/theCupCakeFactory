@@ -43,7 +43,7 @@
 
 ### 2.5 Wireframes
 
-* All wireframes can be found [Here](../docs/wireframes)
+* All wireframes can be found [Here](docs/Desktop_Wireframes_PDF.pdf)
 
 ---
 
