@@ -39,7 +39,11 @@
 
 ### 2.4 Target Audience
 
-#### The target audience for our website is mainly adults looking to make purchaes of our products and to view our product range.
+* The target audience for our website is mainly adults looking to make purchaes of our products and to view our product range.
+
+### 2.5 Wireframes
+
+* All wireframes can be found [Here](../docs/wireframes)
 
 ---
 
