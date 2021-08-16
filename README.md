@@ -33,8 +33,7 @@
 7. [Credits](#Credits)
    * [Code](#Code)
    * [Content](#Content)
-8. [Acknowledgments](#Acknowledgments)
-9. [Bugs](#Bugs)
+8. [Bugs](#Bugs)
 ​
 # The Cupcake Factory
 
@@ -259,10 +258,6 @@ W3C - CSS Validator
 * All content written by the developer Stephen D'Arcy
 
 * Thanks to my mentor Miguel for all his advice and help throughout the project. Also to the various people on Slack who helped with little bugs and always provided encouragement.
----
-
-## Acknowledgments
-
 ---
 
 ## Bugs
