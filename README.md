@@ -224,6 +224,25 @@ W3C - CSS Validator
 
 ## Deployment
 
+### Project creation
+
+* I developed and deployed the Website using Github abd Gitpod as my code editor using the below steps:
+1. Create your account using the email of choice.
+1. Create a new repository giving it a name.
+1. Click the Gitpod button to start the code editor.
+1. Once the code was written I would recommend small commits rather than large ones using the below:
+    * git add . .
+    * git commit -m "Your message here"
+    * git push 
+
+### Deployment of existing site
+* Log in to your Github page.
+* Click settings and scroll down the left to find pages.
+* From source click main.
+* The site will be generated under a live address.
+* This site can be found here: [The CupCake Factory](https://darco31.github.io/theCupCakeFactory/)
+
+
 #### [Back to content](#table-of-contents)
 
 ---
