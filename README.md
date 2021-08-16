@@ -4,7 +4,7 @@
 
 ![Site responsive screenshots](assets/images/readme_img.PNG)
 
-# Table of Contents:
+# Table of Contents
 1. [The Cupcake Factory](#The-Cupcake-Factory)
    * [About](#About)
    * [The business goals](#The-business-goals)
@@ -77,6 +77,7 @@
 
 * All wireframes can be found [Here](docs/Wireframes.pdf)
 
+#### [Back to content](#table-of-contents)
 ---
 
 ## Features
@@ -116,6 +117,7 @@ The footer contains copyright information and links to social media sites that o
 ![All pages](assets/sitescreens/home_nav.PNG)
 ![All pages](assets/sitescreens/social_navs.PNG)
 
+#### [Back to content](#table-of-contents)
 ---
 
 ## Technology Used In Design
@@ -149,6 +151,7 @@ The footer contains copyright information and links to social media sites that o
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
     - Used to validate the CSS code.
 
+#### [Back to content](#table-of-contents)
 ---
 
 ## Testing
@@ -215,9 +218,13 @@ W3C - HTML Validator
 
 W3C - CSS Validator
 
+#### [Back to content](#table-of-contents)
+
 ---
 
 ## Deployment
+
+#### [Back to content](#table-of-contents)
 
 ---
 
@@ -247,4 +254,4 @@ Bug found in Gitpod where the text in the terminal is virtually unreadable makin
 
 ![Gitpod terminal image](assets/images/gitpod_img.PNG)
 
-[Back to Table of Contents](#Table-of-Contents:)
+#### [Back to content](#table-of-contents)
