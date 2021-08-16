@@ -13,7 +13,28 @@
    * [Project goals](#Project-goals)
    * [Design](#Design)
    * [User Stories](*User-Stories)
-
+   * [Target Audience](*Target-Audience)
+   * [Wireframes](*Wireframes)
+3. [Features](#Features)
+   * [Home Pages](#Home-Pages)
+   * [Gallery Pages](#Gallery-Pages)
+   * [Contact Pages](*Contact-Pages)
+   * [Prices Pages](*Prices-Pages)
+   * [All Pages](*All-Pages)
+4. [Technology Used In Design](Technology-Used-In-Design)
+   * [HTML](#HTML)
+   * [CSS](#CSS)
+   * [Libraries](*Libraries)
+5. [Testing](#Testing)
+   * [Lighthouse Testing](#Lighthouse-Testing)
+   * [Manual Testing](#Manual-Testing)
+   * [Additional Testing  ](*Additional-Testing)
+6. [Deployment](#Deployment)
+7. [Credits](Credits)
+   * [Code](#Code])
+   * [Content](#Content)
+8. [Acknowledgments](Acknowledgments)
+9. [Bugs](Bugs)
 ​
 # The Cupcake Factory
 
@@ -106,6 +127,8 @@ The footer contains copyright information and links to social media sites that o
 ### CSS
 
 * CSS has been used to add styles and animations to the site making the website more appealing for people visiting us. 
+
+### Libraries
 
 * [Google Fonts:](https://fonts.google.com/)
     - Google fonts was used to import the fonts Lato and Raleway that is used throughout the site.
