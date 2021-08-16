@@ -3,6 +3,9 @@
 # Stephen D'Arcy - The Cupcake Factory
 
 ![Site responsive sreenshots](assets/images/readme_img.PNG)
+
+# Table of contents:
+
 ​
 ## 1. The Cupcake Factory
 
@@ -43,7 +46,7 @@
 
 ### 2.5 Wireframes
 
-* All wireframes can be found [Here](docs/Desktop_Wireframes_PDF.pdf)
+* All wireframes can be found [Here](docs/Wireframes.pdf)
 
 ---
 
@@ -188,11 +191,13 @@ W3C - CSS Validator
 
 ---
 
-## 7. Acknowledgments
+## 7. Credits
+
+## 8. Acknowledgments
 
 ---
 
-## 7. Bugs
+## 9. Bugs
 
 ### 7.1 Gitpod
 
