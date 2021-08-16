@@ -202,7 +202,6 @@ The contact page is laid out with a contact from in the center of the page under
 * Verify that all elements that are set to required are working.
 * Verify that valid email address is needed with relevant '@' included.
 * Verify that 'Submit' button directs user to the hidden thank you page.
-* Verify that the phone number shown is dialled when selected.
 
 6. Contact Form success
 * Verify that navigation goes to the thank you page and the user can return to the home page if required.
@@ -251,7 +250,7 @@ W3C - CSS Validator
 ### Code
 
 * Code construct credit to The Code Institute and their informative and well laid out lessons.
-* Also credit to [W3 Schools](https://www.w3schools.com/), their lessons on tables helped to further my understanding.
+* Also credit to [W3 Schools](https://www.w3schools.com/), their lessons on tables and the Grid layout helped to further my understanding.
 * Pictures and videos are from [Pexels](https://www.pexels.com/)
 
 ### Content
