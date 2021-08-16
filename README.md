@@ -2,10 +2,49 @@
 
 # Stephen D'Arcy - The Cupcake Factory
 
-![Site responsive sreenshots](assets/images/readme_img.PNG)
+![Site responsive screenshots](assets/images/readme_img.PNG)
 
 # Table of contents:
-
+1. [The Cupcake Factory](#The-Cupcake-Factory)
+   * [About](#About)
+   * [The business goals of this website are:](#user-stories)
+   * [The customer goals of this website are:](#The-customer-goals-of-this-website-are:)
+     1. [Typography](#typography)
+     2. [Colours](#colours)
+     3. [Imagery](#imagery)
+     4. [Icons](#icons)
+     5. [Layout](#layout)
+   * [Wireframes](#wireframes)
+2. [Features](#features)
+   * [Existing Features](#existing-features)
+     1. [All Pages](#all-pages)
+     2. [index.html](#index)
+     3. [services.html](#services)
+     4. [projects.html](#projects)
+     5. [contact-us.html](#contact-us)
+     6. [404.html](#404)
+   * [Features Left To Implement](#features-left-to-implement)
+3. [Technologies Used](#technologies-used)
+   * [Languages](#languages)
+   * [Framework Library](#framework-library)
+   * [Tools](#tools)
+   * [Testing Tools](#testing-tools)
+4. [Testing](TESTING.md)
+5. [Deployment](#deployment)
+   * [Project creation](#project-creation)
+   * [Deployment of existing site](#deployment-of-existing-site)
+   * [Forking](#forking)
+   * [Cloning and Implementing Locally](#cloning-and-implementing-locally)
+6. [Credits](#credits)
+   * [Content](#content)
+   * [Media](#media)
+   * [Icons](#icons)
+   * [Code](#code)
+     1. [HTML](#html)
+     2. [CSS](#css)
+     3. [JavaScript](#javascript)
+7. [Acknowledgements](#acknowledgements)
+8. [Author Information](#author-information)
 ​
 ## 1. The Cupcake Factory
 
@@ -204,3 +243,5 @@ W3C - CSS Validator
 Bug found in Gitpod where the text in the terminal is virtually unreadable making spelling mistakes hard to see when writing commit messages. This was identified as a known issue and was being investigated by the Gitpod teams.
 
 ![Gitpod terminal image](assets/images/gitpod_img.PNG)
+
+
