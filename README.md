@@ -1,5 +1,3 @@
-
-
 # Stephen D'Arcy - The Cupcake Factory
 
 ![Site responsive screenshots](assets/images/readme_img.PNG)
@@ -51,7 +49,6 @@
 ---
  
 ## User Experience
-
 
 ### Project goals:
 * The main goal of the project is to advertise our business and products to a wider audience.
@@ -211,7 +208,6 @@ The contact page is laid out with a contact from in the center of the page under
 
 ### Additional Testing  
 
-
 W3C - HTML Validator
 
 W3C - CSS Validator
@@ -239,7 +235,6 @@ W3C - CSS Validator
 * From source click main.
 * The site will be generated under a live address.
 * This site can be found here: [The CupCake Factory](https://darco31.github.io/theCupCakeFactory/)
-
 
 #### [Back to content](#table-of-contents)
 
