@@ -11,7 +11,8 @@
    * [The customer goals](#The-customer-goals)
 2. [User Experience](#User-Experience)
    * [Project goals](#Project-goals)
-   * [Features Left To Implement](#features-left-to-implement)
+   * [Design](#Design)
+   * [User Stories](*User-Stories)
 
 ​
 # The Cupcake Factory
@@ -132,6 +133,8 @@ The footer contains copyright information and links to social media sites that o
 Testing was manually completed through the use of Googles Chrome browser and Firefox browser in conjunction with their development tools accessed through their website.
 
 ## Lighthouse Testing
+
+![LightHouse Result](docs/Lighthousetest.PNG)
 
 ### User Stories Testing
 
