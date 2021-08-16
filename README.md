@@ -12,29 +12,29 @@
 2. [User Experience](#User-Experience)
    * [Project goals](#Project-goals)
    * [Design](#Design)
-   * [User Stories](*User-Stories)
-   * [Target Audience](*Target-Audience)
-   * [Wireframes](*Wireframes)
+   * [User Stories](#User-Stories)
+   * [Target Audience](#Target-Audience)
+   * [Wireframes](#Wireframes)
 3. [Features](#Features)
    * [Home Pages](#Home-Pages)
    * [Gallery Pages](#Gallery-Pages)
-   * [Contact Pages](*Contact-Pages)
-   * [Prices Pages](*Prices-Pages)
-   * [All Pages](*All-Pages)
-4. [Technology Used In Design](Technology-Used-In-Design)
+   * [Contact Pages](#Contact-Pages)
+   * [Prices Pages](#Prices-Pages)
+   * [All Pages](#All-Pages)
+4. [Technology Used In Design](#Technology-Used-In-Design)
    * [HTML](#HTML)
    * [CSS](#CSS)
-   * [Libraries](*Libraries)
+   * [Libraries](#Libraries)
 5. [Testing](#Testing)
    * [Lighthouse Testing](#Lighthouse-Testing)
    * [Manual Testing](#Manual-Testing)
-   * [Additional Testing  ](*Additional-Testing)
+   * [Additional Testing ](#Additional-Testing)
 6. [Deployment](#Deployment)
-7. [Credits](Credits)
+7. [Credits](#Credits)
    * [Code](#Code])
    * [Content](#Content)
-8. [Acknowledgments](Acknowledgments)
-9. [Bugs](Bugs)
+8. [Acknowledgments](#Acknowledgments)
+9. [Bugs](#Bugs)
 ​
 # The Cupcake Factory
 
@@ -187,29 +187,26 @@ The contact page is laid out with a contact from in the center of the page under
 * Verify that the call to action contact button redirects to the correct page.
 
 3. Gallery
-* Verify that the image carousel is functional, and clicks through the images.
-* Verify that images are confined to the carousel and not overflowing it.
+* Verify that all images are showing in desktop, tablet and mobile.
+* Verify that all images are responding to the hover effect.
+* Verify that the call to action contact button redirects to the correct page.
 
 4. Prices
-* Verify that the stockist button pops open a modal.
-* Verify that the modal contains a table with stockist information.
-* Verify that modal closes when the 'X' button is selected, or the user clicks on the screen anywhere outside of the modal window.
+* Verify that the prices table is reflecting the correct data.
+* Verify that the page is responsive.
+* Verify that the call to action contact button redirects to the correct page.
 
 5. Contact
-*Verify that all elements that are set to required are working.
-*Verify that valid email address is needed with relevant '@' included.
-*Verify that 'Submit' button directs user to a success page.
+* Verify that all elements that are set to required are working.
+* Verify that valid email address is needed with relevant '@' included.
+* Verify that 'Submit' button directs user to the hidden thank you page.
+* Verify that the phone number shown is dialled when selected.
 
 6. Contact Form success
-* Verify that navigation elements work the same as all other pages.
-* Verify that the page automatically redirects the user to the services page after 10 seconds, as indicated.
+* Verify that navigation goes to the thank you page and the user can return to the home page if required.
 
 7. Footer - Repeated steps on all pages.
 * Verify that the social media links open in a new tab.
-* Verify that the email link directs the user to a custom 404 error page when selected.
-* Verify that the 404 error page 'Return home' link brings the user back to the landing page.
-* Verify that the phone number shown is dialled when selected.
-* Verify that the website hyperlink directs the user back to the landing page.
 
 ### Additional Testing  
 
