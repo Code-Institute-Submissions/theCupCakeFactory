@@ -7,8 +7,8 @@
 # Table of Contents:
 1. [The Cupcake Factory](#The-Cupcake-Factory)
    * [About](#About)
-   * [The business goals of this website are:](#The-business-goals)
-   * [The customer goals of this website are:](#The-customer-goals)
+   * [The business goals](#The-business-goals)
+   * [The customer goals](#The-customer-goals)
 2. [User Experience](#User-Experience)
    * [Project goals](#Project-goals)
    * [Features Left To Implement](#features-left-to-implement)
@@ -29,39 +29,37 @@
 
 ---
  
-## 2. User Experience
+## User Experience
 
 
-### 2.1 Project goals:
+### Project goals:
 * The main goal of the project is to advertise our business and products to a wider audience.
 * To increase visitors to the website.
 * To use the website as a platform to expand our business
 ​
-### 2.2 Design:
+### Design:
 * The design is very simplistic and uses pastel colors to mirror what may be found on a lot of cakes and baked goods. It has a clear navigation menu and the page is clearly    labeled and it is easy to go from one page to another. 
 * The images are sized correctly and each page is designed to look like the home page.
 ​
-### 2.3 User Stories
+### User Stories
 * As a user I want navigate between pages.
 * As a user I want be able to view images pf products.
 * As a user I want to be able to see the prices of products in a clear manner.
 * As a user I want to be able to contact the company easily.
 
-### 2.4 Target Audience
+### Target Audience
 
 * The target audience for our website is mainly adults looking to make purchase of our products and to view our product range.
 
-### 2.5 Wireframes
+### Wireframes
 
 * All wireframes can be found [Here](docs/Wireframes.pdf)
 
 ---
 
-## 3. Features
+## Features
 
-### 3.1 
-
-### Home page 
+* Home page 
 
 The home page features a hero image that is animated to draw the attention of the visitor to the purpose of our business. The image does remain animated from desktop down to mobile size. Under the hero image we have two small paragraphs outlining outlining why a customer should use our services and a question as to what we do. We have a list outlining some of the occasions we cater for and a call to action button to contact us if anything else is required or any special requests are needed.
 
@@ -69,26 +67,26 @@ Further down the home page I have three images that are animated to show the tra
 
 ![All pages](assets/sitescreens/home_page.PNG)
 
-### Gallery Page
+* Gallery Page
 
 The Gallery page has a small selection of the cakes that we can produce. One the user hovers over them the are designed to stand out with a box shadow. The page also include tha call to action contact button in case the user would like to make contact and request one of the cakes in the gallery.
 
 ![All pages](assets/sitescreens/gallery.PNG)
 
-### Contact Page
+* Contact Page
 
 The Contact page follows the small design principles as the other pages. The animated hero image banner is located below the navigation menu. Below this hero image is our contact form. The form has certain fields that must be completed before submitting. There is a text box for messaging and some checkboxes for or more popular orders. One checkbox gives the customer the option to choose the size of their cupcake orders. Once the contact form has been completed the user will get a thank you message from a hidden page. 
 
 ![All pages](assets/sitescreens/contactform.PNG)
 ![All pages](assets/sitescreens/contactmap.PNG)
 
-### Prices Page
+* Prices Page
 
 The Prices page displays some of our prices for again our more popular cakes. This is coupled with separate prices for different size cakes. We have clearly outlined our delivery costs and that we only deliver to a certain geographical area. If any other delivery areas further  than stated we advise the customer to contact us with their request.
 
 ![All pages](assets/sitescreens/prices.PNG)
 
-### All pages
+* All pages
 
 The top of the page has an easy to use navigation bar that has a underlined border to emphasize where the user is on the website. All the pages have an animated banner, the opacity has been turned down slightly. This is engage the user and also visually show the user what the site represents and what our business is. 
 The footer contains copyright information and links to social media sites that open in separate pages.
@@ -98,13 +96,13 @@ The footer contains copyright information and links to social media sites that o
 
 ---
 
-## 4. Technology Used In Design
+## Technology Used In Design
 
-### 4.1 HTML
+### HTML
 
 * HTML5 semantic code is used in all of the four website pages. There are clearly defined areas such as main, sections, headers and footers as well as list items and tables.
 
-### 4.2 CSS
+### CSS
 
 * CSS has been used to add styles and animations to the site making the website more appealing for people visiting us. 
 
@@ -129,11 +127,13 @@ The footer contains copyright information and links to social media sites that o
 
 ---
 
-## 5. Testing
+## Testing
 
 Testing was manually completed through the use of Googles Chrome browser and Firefox browser in conjunction with their development tools accessed through their website.
 
-### 5.1 User Stories Testing
+## Lighthouse Testing
+
+### User Stories Testing
 
 * #### As a user I want navigate between pages.
 On the home page in the top right their are navigation links that seamless work between each page the user wants to visit. The page the user is on is identified by the underlined border on each link as the click through the website.
@@ -147,7 +147,7 @@ The user can navigate through the navigation menu to the prices page where there
 * #### As a user I want to be able to contact the company easily.
 The contact page is laid out with a contact from in the center of the page under the main hero image. Each field is identifiable and any fields that are required are called out when the user clicks the contact us button. There is also a rest button in case of any user mistakes.
 
-### 5.2 Manual Testing
+### Manual Testing
 1. Navigation - Repeated steps on all pages.
 
 * Click on logo to confirm that it navigates to the home page.
@@ -194,19 +194,31 @@ W3C - CSS Validator
 
 ---
 
-## 6. Deployment
+## Deployment
 
 ---
 
-## 7. Credits
+## Credits
 
-## 8. Acknowledgments
+### Code
+
+* Code construct credit to The Code Institute and their informative and well laid out lessons.
+* Also credit to [W3 Schools](https://www.w3schools.com/), their lessons on tables helped to further my understanding.
+* Pictures and videos are from [Pexels](https://www.pexels.com/)
+
+### Content
+* All content written by the developer Stephen D'Arcy
+
+* Thanks to my mentor Miguel for all his advice and help throughout the project. Also to the various people on Slack who helped with little bugs and always provided encouragement.
+---
+
+## Acknowledgments
 
 ---
 
-## 9. Bugs
+## Bugs
 
-### 7.1 Gitpod
+* Gitpod
 
 Bug found in Gitpod where the text in the terminal is virtually unreadable making spelling mistakes hard to see when writing commit messages. This was identified as a known issue and was being investigated by the Gitpod teams.
 
