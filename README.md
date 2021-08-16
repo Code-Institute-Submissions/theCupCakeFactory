@@ -82,7 +82,7 @@
 
 ## Features
 
-* Home Page 
+#### Home Page 
 
 The home page features a hero image that is animated to draw the attention of the visitor to the purpose of our business. The image does remain animated from desktop down to mobile size. Under the hero image we have two small paragraphs outlining outlining why a customer should use our services and a question as to what we do. We have a list outlining some of the occasions we cater for and a call to action button to contact us if anything else is required or any special requests are needed.
 
@@ -90,26 +90,26 @@ Further down the home page I have three images that are animated to show the tra
 
 ![All pages](assets/sitescreens/home_page.PNG)
 
-* Gallery Page
+#### Gallery Page
 
 The Gallery page has a small selection of the cakes that we can produce. One the user hovers over them the are designed to stand out with a box shadow. The page also include tha call to action contact button in case the user would like to make contact and request one of the cakes in the gallery.
 
 ![All pages](assets/sitescreens/gallery.PNG)
 
-* Contact Page
+#### Contact Page
 
 The Contact page follows the small design principles as the other pages. The animated hero image banner is located below the navigation menu. Below this hero image is our contact form. The form has certain fields that must be completed before submitting. There is a text box for messaging and some checkboxes for or more popular orders. One checkbox gives the customer the option to choose the size of their cupcake orders. Once the contact form has been completed the user will get a thank you message from a hidden page. 
 
 ![All pages](assets/sitescreens/contactform.PNG)
 ![All pages](assets/sitescreens/contactmap.PNG)
 
-* Prices Page
+#### Prices Page
 
 The Prices page displays some of our prices for again our more popular cakes. This is coupled with separate prices for different size cakes. We have clearly outlined our delivery costs and that we only deliver to a certain geographical area. If any other delivery areas further  than stated we advise the customer to contact us with their request.
 
 ![All pages](assets/sitescreens/prices.PNG)
 
-* All Pages
+#### All Pages
 
 The top of the page has an easy to use navigation bar that has a underlined border to emphasize where the user is on the website. All the pages have an animated banner, the opacity has been turned down slightly. This is engage the user and also visually show the user what the site represents and what our business is. 
 The footer contains copyright information and links to social media sites that open in separate pages.
