@@ -4,46 +4,26 @@
 
 ![Site responsive screenshots](assets/images/readme_img.PNG)
 
-# Table of contents:
+# Table of Contents:
 1. [The Cupcake Factory](#The-Cupcake-Factory)
    * [About](#About)
-   * [The business goals of this website are:](#user-stories)
-   * [The customer goals of this website are:](#The-customer-goals-of-this-website-are:)
+   * [The business goals of this website are:](#The-business-goals)
+   * [The customer goals of this website are:](#The-customer-goals)
 2. [User Experience](#User-Experience)
    * [Project goals](#Project-goals)
    * [Features Left To Implement](#features-left-to-implement)
-3. [Technologies Used](#technologies-used)
-   * [Languages](#languages)
-   * [Framework Library](#framework-library)
-   * [Tools](#tools)
-   * [Testing Tools](#testing-tools)
-4. [Testing](TESTING.md)
-5. [Deployment](#deployment)
-   * [Project creation](#project-creation)
-   * [Deployment of existing site](#deployment-of-existing-site)
-   * [Forking](#forking)
-   * [Cloning and Implementing Locally](#cloning-and-implementing-locally)
-6. [Credits](#credits)
-   * [Content](#content)
-   * [Media](#media)
-   * [Icons](#icons)
-   * [Code](#code)
-     1. [HTML](#html)
-     2. [CSS](#css)
-     3. [JavaScript](#javascript)
-7. [Acknowledgements](#acknowledgements)
-8. [Author Information](#author-information)
-​
-## 1. The Cupcake Factory
 
-### 1.1 About
+​
+# The Cupcake Factory
+
+### About
 * A website dedicated to cake baking that includes a fast efficient delivery service for customers. The website features an array of cakes we bake and an easy to use contact form for anything else a customer may want to order.We offer an excellent delivery service within certain geographical ranges. The goal is to promote our small online business while encouraging others to try baking for themselves.  
 
-### 1.2 The business goals of this website are:
+### The business goals
 * To build a regular customer base.
 * To always provide quality products.
 
-### 1.3 The customer goals of this website are:
+### The customer goals
 * To visit and browse our products and to order their products with ease.
 * Clear easy to find product pricing and delivery prices.
 
