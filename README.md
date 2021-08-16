@@ -31,7 +31,7 @@
    * [Additional Testing ](#Additional-Testing)
 6. [Deployment](#Deployment)
 7. [Credits](#Credits)
-   * [Code](#Code])
+   * [Code](#Code)
    * [Content](#Content)
 8. [Acknowledgments](#Acknowledgments)
 9. [Bugs](#Bugs)
@@ -81,7 +81,7 @@
 
 ## Features
 
-* Home page 
+* Home Page 
 
 The home page features a hero image that is animated to draw the attention of the visitor to the purpose of our business. The image does remain animated from desktop down to mobile size. Under the hero image we have two small paragraphs outlining outlining why a customer should use our services and a question as to what we do. We have a list outlining some of the occasions we cater for and a call to action button to contact us if anything else is required or any special requests are needed.
 
@@ -108,7 +108,7 @@ The Prices page displays some of our prices for again our more popular cakes. Th
 
 ![All pages](assets/sitescreens/prices.PNG)
 
-* All pages
+* All Pages
 
 The top of the page has an easy to use navigation bar that has a underlined border to emphasize where the user is on the website. All the pages have an animated banner, the opacity has been turned down slightly. This is engage the user and also visually show the user what the site represents and what our business is. 
 The footer contains copyright information and links to social media sites that open in separate pages.
