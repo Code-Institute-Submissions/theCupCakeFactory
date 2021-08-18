@@ -676,13 +676,32 @@ th ,td {
         color: #36232c;
         font-size: 0.7rem;
     }
+    #content {
+        padding-bottom: 30px;
+    }
+    /* .call-to-contact {
+        margin-top: 10%;
+        text-decoration: none;
+        width: 100px;
+        margin: 40px auto 0;
+        border-radius: 2px;
+        padding: 10px;
+        text-align: center;
+        font-size: 80%;
+        background-color: #fafafa;
+        color:#36232c;
+        display: block;
+        cursor: pointer;
+        border-radius: 6px; 
+    } */
     .events-list {
-        padding: 0px;
+        padding: 20px 20px;
         font-size: 1rem;
         text-align: center;
     }
     .why-paragraph {
         font-size: 0.8rem;
+        padding-bottom: 20px;
     }
     .why-paragraph-delivery {
         font-size: .9rem;
@@ -699,7 +718,7 @@ th ,td {
         color: #36232c;
     }
     .social-networks {
-        padding-top: 5px;
+        padding: 0px;
     }
     .join-button    {
         margin-top: 20px;
