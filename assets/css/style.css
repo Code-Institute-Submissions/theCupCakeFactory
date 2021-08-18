@@ -294,8 +294,9 @@ footer {
 #content {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    grid-gap: 20px;
-    justify-items: end;
+    grid-gap: 30px;
+    justify-content: space-around;
+    align-content: space-between;
     margin: 20px 20px;
     overflow: hidden;
 }
@@ -348,8 +349,26 @@ th ,td {
         margin-left: 30px;
         text-transform: uppercase;
     }
+    .why-paragraph-delivery-table {
+        font-size: 1.2rem;
+        padding-top: 8%;
+    }
+    .call-to-contact {
+        text-decoration: none;
+        width: 200px;
+        margin: 10px auto;
+        border-radius: 2px;
+        padding: 15px 32px 15px 32px;
+        text-align: center;
+        font-size: 100%;
+        background-color: #fafafa;
+        color:#36232c;
+        display: block;
+        cursor: pointer;
+        border-radius: 10px;
+    }
     .why-paragraph {
-        font-size: 1rem;
+        font-size: 1.3rem;
         text-align: center;
         margin: 0 50px 0 50px;
     }
@@ -494,14 +513,22 @@ th ,td {
         color: #36232c;
     }
   }
-  /* Media queries 763px maximum width */
-  @media screen and (max-width: 763px) {
+  /* Media queries 768px maximum width */
+  @media screen and (max-width: 768px) {
     .price-table {
         margin-top: 120px;
         margin-left: auto;
         margin-right: auto;
         text-align: center;
         color: #36232c;
+    }
+    #content {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 2fr));
+        grid-gap: 30px;
+        justify-items: center;
+        margin: 20px 30px;
+        overflow: hidden;
     }
     .events-list {
         padding: 10px;
@@ -579,7 +606,7 @@ th ,td {
     .call-to-contact {
         text-decoration: none;
         width: 100px;
-        margin: 0 auto;
+        margin: 10px auto;
         border-radius: 2px;
         padding: 10px;
         text-align: center;
@@ -679,6 +706,21 @@ th ,td {
     #content {
         padding-bottom: 30px;
     }
+    .call-to-contact {
+        margin-top: 10%;
+        text-decoration: none;
+        width: 100px;
+        margin: 40px auto 0;
+        border-radius: 2px;
+        padding: 10px;
+        text-align: center;
+        font-size: 80%;
+        background-color: #fafafa;
+        color:#36232c;
+        display: block;
+        cursor: pointer;
+        border-radius: 6px; 
+    }
     .events-list {
         padding: 20px 20px;
         font-size: 1rem;
@@ -724,18 +766,19 @@ th ,td {
   /* Media queries 320px maximum width */
   @media screen and (max-width: 320px) {
     .call-to-contact {
+        margin-top: 10%;
         text-decoration: none;
         width: 100px;
-        margin: 0 auto;
+        margin: 40px auto 0;
         border-radius: 2px;
-        padding: 10px 16px 7px 16px;
+        padding: 10px;
         text-align: center;
-        font-size: 60%;
+        font-size: 80%;
         background-color: #fafafa;
         color:#36232c;
         display: block;
         cursor: pointer;
-        border-radius: 6px;
+        border-radius: 6px; 
     }
     .call-to-contact:hover {
         background-color: #af889a;
@@ -797,7 +840,7 @@ th ,td {
         padding-top: 10px;
     }
     .social-networks {
-        margin-top: 2px;
+        margin-top: 5px;
         padding-bottom: 10px;
     }
     .gallery-head {
@@ -831,5 +874,8 @@ th ,td {
     }
     td {
         font-size: 0.8rem;
+    }
+    .article {
+        height: 50px;
     }
   }
