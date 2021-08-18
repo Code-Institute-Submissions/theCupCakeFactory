@@ -262,4 +262,6 @@ Bug found in Gitpod where the text in the terminal is virtually unreadable makin
 
 ![Gitpod terminal image](assets/images/gitpod_img.PNG)
 
+Links when used in Gitpod are not working correctly. I had to push the changes to github and test from there. Gitpod is also showing some of the back yto top links with the hashtags. Again this is not represntitive of the github page.
+
 #### [Back to content](#table-of-contents)
