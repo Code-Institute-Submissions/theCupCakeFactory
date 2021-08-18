@@ -115,7 +115,6 @@ body {
     height: 350px;
     float: left;
     background: url('../images/finish-cake.jpg')no-repeat center center;
-
     animation-name: pictures-left;
     animation-duration: 8s;
     animation-timing-function: ease-in;
