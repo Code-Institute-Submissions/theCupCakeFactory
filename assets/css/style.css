@@ -117,7 +117,6 @@ body {
     background: url('../images/finish-cake.jpg')no-repeat center center;
     animation-name: pictures-left;
     animation-duration: 8s;
-    animation-timing-function: ease-in;
 }
 .right {
     border-radius: 10px 0 0 10px;
@@ -128,7 +127,6 @@ body {
     background: url('../images/cupcake-home-finished.jpg')no-repeat center center;
     animation-name: pictures-right;
     animation-duration: 8s;
-    animation-timing-function: ease-in;
 }
 .center {
     border-radius: 10px;
@@ -138,30 +136,24 @@ body {
     background: url('../images/center_home_finish.jpg')no-repeat center center;
     animation-name: pictures-center;
     animation-duration: 8s;
-    animation-timing-function: ease-in;
 }
 /* Animations that will play on the home page once when loaded */
 @keyframes pictures-center {
     from {
         background: url('../images/center_home_start.jpg')no-repeat center center;
-        /* transform: translate3d(50px, 40px, 0px); */
-        animation-timing-function: ease-in;
     }
 
     to {
         background: url('../images/center_home_middle.jpg')no-repeat center center;
-        animation-timing-function: ease-in;
     }
 }
 @keyframes pictures-left {
     from {
         background: url('../images/cake-start.jpg')no-repeat center center;
-        animation-timing-function: ease-in;
     }
 
     to {
         background: url('../images/cake-middle.jpg')no-repeat center center;
-        animation-timing-function: ease-in;
     }
 }
 @keyframes pictures-right {
