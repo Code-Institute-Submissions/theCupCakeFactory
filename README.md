@@ -212,6 +212,8 @@ W3C - HTML Validator
 
 W3C - CSS Validator
 
+![LightHouse Result](docs/css_validator.PNG)
+
 #### [Back to content](#table-of-contents)
 
 ---
@@ -264,4 +266,7 @@ Bug found in Gitpod where the text in the terminal is virtually unreadable makin
 
 Links when used in Gitpod are not working correctly. I had to push the changes to github and test from there. Gitpod is also showing some of the back to top links with the hashtags. Again this is not representative of the github page. I have come across a lot of issues in Gitpod that cause the developer to use more steps to verify their code.
 
+* Code validation:
+
+When I have validated all the code in W3 validator there are two known warnings to include headings. The headings are intentionally left out as there are not required. there is no content in the code.
 #### [Back to content](#table-of-contents)
