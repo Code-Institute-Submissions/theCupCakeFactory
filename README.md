@@ -269,4 +269,9 @@ Links when used in Gitpod are not working correctly. I had to push the changes t
 * Code validation:
 
 When I have validated all the code in W3 validator there are two known warnings to include headings. The headings are intentionally left out as there are not required. there is no content in the code.
+
+* Internet Explorer 11
+
+The hero banner is not covering the page and the maps state that the browser is not supported. As IE11 is not used as much and will be obsolete soon being replaced with MS Edge I believe it would be of no benefit to  fix the issue as it may cause issues on other more popular browsers.
+
 #### [Back to content](#table-of-contents)
